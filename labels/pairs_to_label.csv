@@ -1,0 +1,501 @@
+pair_id,stratum,left_kind,left_id,left_name,left_website,left_email,left_country,right_id,right_name,right_website,right_country,model_score
+P000,lead_freemail,lead,L008202,"""CONTSHIP ITLAIA S.P.A.""",,*@gmail.com,,A032427,"""CONTSHIP ITALIA S.P.A.""",,IT,0.5023
+P001,acc_shared_domain_diff_site,account,A021046,J. Safra Sarasin,https://www.jsafrasarasin.com/de/home.html,,CH,A021047,J・サフラ・サラシン銀行,https://www.jsafrasarasin.com/en/home.html,CH,0.4822
+P002,lead_parent_domain,lead,L007373,HARTMANN HUNGARY TOJÁSCSOMAGOLÓANYAG GYÁRTÓ ÉS FORGALMAZÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG,hartmann-packaging.com,*@hartmann-packaging.com,HU,A001038,HARTMANN HUNGARY TOJÁSCSOMAGOLÓANYAG GYÁRTÓ ÉS FORGALMAZÓ KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG,,HU,0.9783
+P003,lead_alias_name,lead,L010523,Space Norway AS,,*@proton.me,NO,A024796,Space Norway,https://spacenorway.no/en/,NO,0.9928
+P004,lead_parent_domain,lead,L005196,VINARIUS AS,https://hansaborg.no,*@icloud.com,NO,A021974,VINARIUS AS,,NO,0.9783
+P005,acc_borderline,account,A013752,Stadtwerke Villingen-Schwenningen GmbH,,,DE,A015868,Stadtwerke Emmerich GmbH,,DE,0.1586
+P006,acc_borderline,account,A014976,Volksbank Bruhrain-Kraich-Hardt,http://www.voba-bkh.de/,,DE,A017199,VOLKSBANK HEINSBERG EG,http://www.volksbank-heinsberg.de/,DE,0.0047
+P007,acc_high,account,A020250,BP Exploration Operating Company Ltd,https://www.bp.com/,,GB,A029016,Britannic Energy Trading,https://www.bp.com/,GB,0.5568
+P008,acc_parent_child,account,A025868,BRIGHTSTAR LOTTERY CYPRUS LIMITED,igt.com,,CY,A027578,International Game Technology,https://www.igt.com/,GB,0.0072
+P009,acc_shared_domain_diff_site,account,A015746,"PARC EOLIEN DE PREUSEVILLE, S.A.R.L.",ipex.it,,FR,A017353,"Centrale Eolienne Patay, S.A.S.",https://pip.ipex.it/,ES,0.0007
+P010,acc_borderline,account,A019005,"City of Glendale, Arizona",,,US,A020514,"City of Cloquet, Minnesota",,US,0.0756
+P011,lead_parent_domain,lead,L002094,FS FINANS VI A/S,,*@web.de,DK,A001322,FS FINANS VI A/S,,DK,0.9783
+P012,lead_alias_name,lead,L012771,INSTITUT MONTAIGNE,,*@institutmontaigne.org,,A012482,Institut Straumann AG,,CH,0.3040
+P013,acc_shared_domain_diff_site,account,A018827,FREMTIND LIVSFORSIKRING AS,sparebank1.no/no,,NO,A029278,SPAREBANK 1 SOROST-NORGE,www.sparebank1.no,NO,0.0377
+P014,acc_borderline,account,A006785,Obec Jamné,,,CZ,A008473,Obec Bozetice,bozetice.cz,CZ,0.1123
+P015,lead_parent_domain,lead,L003512,TOPPAN株式会社,,*@toppan.com,JP,A010152,TOPPAN株式会社,,JP,0.9928
+P016,acc_high,account,A036904,АЛИАНЗ ЕНЕРДЖИ БЪЛГАРИЯ,https://www.allianz-energy.eu,,BG,A036906,ALLIANZ ENERGY BULGARIA LLC,https://www.allianz-energy.eu,BG,0.8619
+P017,lead_alias_name,lead,L003831,,kalmarenergi.se,*@icloud.com,SE,A024062,Kalmar Energi Försäljning,http://www.kalmarenergi.se,SE,0.6221
+P018,acc_parent_child,account,A027599,L3Harris Technologies,https://www.l3harris.com,,US,A033596,"Aerojet Rocketdyne, Inc.",https://www.l3harris.com/company/powering-defense-and-space-exploration,US,0.3586
+P019,acc_high,account,A032535,MINERVINO WIND S.R.L.,,,IT,A032536,MINERVINO WIND SRL,https://www.renvicoenergy.com/it/index.html,IT,0.9589
+P020,acc_high,account,A026360,Lakefront Biotherapeutics NV,http://www.glpg.com/,,BE,A026361,Lakefront Biotherapeutics,http://www.glpg.com/,BE,0.9983
+P021,acc_parent_child,account,A005373,"UNIPETROL, A.S.",https://www.unipetrol.cz/,,CZ,A005499,Unipetrol RPA,www.unipetrolrpa.cz,CZ,0.0182
+P022,acc_parent_child,account,A002519,DANONE AB,nutricia.com/se,,SE,A035686,Danone,https://www.danone.com/,FR,0.0205
+P023,acc_borderline,account,A014996,Volksbank Göttingen eG,https://www.volksbank-goettingen.de,,DE,A016050,Volksbank Visbek,http://www.vbvisbek.de,DE,0.0077
+P024,acc_shared_domain_diff_site,account,A035133,ARKEA REAL ESTATE INVESTMENT MANAGEMENT,cm-arkea.com/fr,,FR,A036153,ARKEA CREDIT BAIL,www.cm-arkea.com,FR,0.0861
+P025,acc_same_name_diff_country,account,A005523,"Ptáček - velkoobchod, a.s.",,,CZ,A006015,"Ptáček - veľkoobchod, a. s.",https://www.ptacek.sk/,SK,0.0272
+P026,acc_high,account,A020177,Kirkbi,http://www.kirkbi.com/,,DK,A020178,Kurkbi,kirkbi.com,DK,0.9546
+P027,acc_borderline,account,A022868,Πανεπιστήμιο της Πενσυλβάνια,https://upenn.edu,,,A027694,πανεπιστήμιο του φόρνταμ,www.fordham.edu,US,0.0106
+P028,lead_freemail,lead,L009901,EVVAI,evvai.com,*@icloud.com,,A032309,Evvai,https://www.evvai.com/,IT,0.9991
+P029,acc_shared_domain_diff_site,account,A019718,IF CARDBOARD CREATIONS LIMITED,booksamillion.com/gb,,GB,A019719,if cardboard creations limited,booksamillion.com,GB,0.9687
+P030,acc_high,account,A027168,State of Rhode Island and Providence Plantations,https://www.ri.gov/,,US,A027169,Rhode Island,https://www.ri.gov/,US,0.9443
+P031,acc_shared_domain_diff_site,account,A011590,Deutsches Rotes Kreuz Landesverband Saarland e. V.,https://www.lv-saarland.drk.de/,,DE,A016905,"Deutsches Rotes Kreuz, Landesverband Oldenburg e.V.",https://www.lv-oldenburg.drk.de/,DE,0.4797
+P032,acc_same_name_diff_country,account,A012673,SIEMENS SAS,,,FR,A013750,"Siemens, s.r.o.",,CZ,0.0272
+P033,acc_borderline,account,A022873,DANSK BLINDESAMFUND,http://www.blind.dk,,DK,A028221,DANSK SYGEPLEJERAD,www.dsr.dk,DK,0.0047
+P034,lead_alias_name,lead,L005418,S BROKER AG & CO. KG,https://www.sbroker.de/,*@gmail.com,DE,A015180,S Broker AG & Co. KG,https://www.sbroker.de/,DE,0.9994
+P035,acc_shared_domain_diff_site,account,A014291,lnnovaris Europe GmbH,https://selfcare.extra-gruen.com/,,DE,A014293,Extranrün,extra-gruen.com,DE,0.0583
+P036,lead_freemail,lead,L000891,LANCASHIRE HOLDINGS LIMITED,,*@hotmail.com,BM,A019222,LANCASHIRE HOLDINGS LIMITED,,BM,0.9783
+P037,lead_alias_name,lead,L011357,"Český porcelán, tkciová společnost",,*@porcelan.cz,,A007599,"Česká spořitelna - penzijní společnost, a.s.",,CZ,0.2441
+P038,lead_alias_name,lead,L008917,BdM Banca S.p.A.,https://www.bdmbanca.it/,*@bdmbanca.it,IT,A027473,BDM BANCA S.P.A.,https://www.bdmbanca.it/,IT,0.9994
+P039,lead_parent_domain,lead,L002752,BOTTLING HOLDINGS (LUXEMBOURG) S.À R.L.,,*@cocacolaep.com,LU,A027642,Bottling Holdings (Luxembourg) s.à r.l.,,LU,0.9783
+P040,acc_high,account,A032365,ZENERGIA S.R.L.,,,IT,A032366,ZENERGIA,http://www.zenergia.eu,IT,0.9864
+P041,lead_freemail,lead,L004343,STIFTUNG IRENE,http://stiftung-irene.de/,*@icloud.com,,A010975,Stiftung Irene,http://stiftung-irene.de/,DE,0.9991
+P042,lead_parent_domain,lead,L004307,,https://www.cummins.com,*@cummins.com,,A038643,Cummins,https://www.cummins.com,US,0.7913
+P043,acc_high,account,A014863,"Akciju sabiedrība ""LATVO""",,,LV,A028853,"Akciju sabiedriba ""Nasdaq Riga""",,LV,0.3290
+P044,lead_alias_name,lead,L008335,"LAO - průmyslové systémy, s.r.o.",lao.cz,*@lao.cz,CZ,A005807,LAO - průmyslové systémy,http://www.lao.cz,CZ,0.9982
+P045,acc_borderline,account,A015967,Sparkasse Mittelthüringen,,,DE,A016033,Sparkasse Schwyz,http://www.sparkasse.ch/,CH,0.0021
+P046,lead_borderline,lead,L011913,Roman Catholic Archdiocese of Vilnius,,*@lcn.lt,,A004163,Roman Catholic Diocese of Manila,,PH,0.2580
+P047,acc_borderline,account,A001231,ROYAL INTERNATIONAL INSURANCE HOLDINGS LIMITED,,,GB,A030527,Royal Vriesco,https://www.ahouseofhappiness.com/nl,NL,0.0012
+P048,acc_parent_child,account,A018608,HEINEKEN HANOI BREWERY CO. LTD,,,,A030346,Heineken International,https://www.theheinekencompany.com/,NL,0.1315
+P049,acc_borderline,account,A013110,GERMAN CHILDHOOD CANCER FOUNDATION,,,DE,A016330,German Society for Clinical Chemistry and Laboratory Medicine,http://www.dgkl.de/,DE,0.0711
+P050,acc_parent_child,account,A031394,Metsä Wood/Metsäliitto Osuuskunta,http://www.metsawood.com,,FI,A031443,Metsä Board Kyrö,,FI,0.0814
+P051,acc_parent_child,account,A024449,Elis Danmark A/S,,,DK,A036107,ELIS,,FR,0.0023
+P052,acc_borderline,account,A021762,"City of Georgetown, Texas",http://www.georgetown.org/,,US,A025759,"City of Mapleton, North Dakota",,US,0.0888
+P053,lead_borderline,lead,L011623,Sparda-Bank Hessen,https://www.sparda-hessen.de/,*@sparda-hessen.de,,A017049,Sparda-Bank West eG,,DE,0.2013
+P054,acc_borderline,account,A012531,Stadtwerke Bregenz G.m.b.H.,,,AT,A012534,Stadtwerke Radevormwald,http://www.s-w-r.de/,DE,0.0021
+P055,acc_borderline,account,A021240,Franklin & Marshall College,http://www.fandm.edu,,US,A036434,FRANKLIN TEMPLETON SERVICES (INDIA) PRIVATE LIMITED,,IN,0.0006
+P056,acc_high,account,A028577,MAIPO FILM AS,https://www.maipo.no/,,NO,A028579,MAIP OFILM,,NO,0.8238
+P057,acc_parent_child,account,A015214,Axpo Trading,http://axpo.com,,CH,A016427,AXPO IBERIA S.L.U.,http://www.axpo.com,ES,0.0183
+P058,acc_borderline,account,A012152,MORGAN STANLEY & CO. INTERNATIONAL PLC,,,GB,A038389,MORGAN STANLEY CAPITAL GROUP INC.,,US,0.0001
+P059,acc_same_name_diff_country,account,A021829,CRITEO B.V.,,,NL,A025080,CRITEO S.R.L.,,IT,0.0272
+P060,lead_alias_name,lead,L000153,カイロ・コミュニケーション,,*@gmail.com,IT,A014661,KWG-Kraftwerksgesellschaft Staßfurt mbH,https://www.ciechgroup.com/,,0.1047
+P061,acc_same_name_diff_country,account,A001390,DANONE OY,,,FI,A002519,DANONE AB,nutricia.com/se,SE,0.1690
+P062,lead_alias_name,lead,L008251,Reka Kaapeli Oy,,*@reka.fi,FI,A031398,Reka Kaapeli Oy,http://www.reka.fi,FI,0.9982
+P063,lead_alias_name,lead,L006325,索尼,,*@sony.co.in,,A016834,ソニーグループ株式会社,https://www.sony.co.in/,JP,0.3050
+P064,acc_borderline,account,A000948,China Petrochemrcal Corporation,sinopecgroup.com,,CN,A012600,China Resources Land,http://www.crland.com.hk/,HK,0.0000
+P065,acc_shared_domain_diff_site,account,A017111,"Parc Eolien de Tarzy, S.A.R.L.",https://pip.ipex.it/,,FR,A017112,"Parc Eolien de Tarzy, S.A.R.L.",ipex.it,FR,0.9687
+P066,lead_freemail,lead,L006740,Sparkasse Rosenheim-Bad Aibling,,*@gmail.com,DE,A016628,Sparkasse Rosenheim-Bad Aibling,,DE,0.9783
+P067,lead_parent_domain,lead,L001484,COGNIZANT TECHNOLOGY SOLUTIONS HOLDINGS LLC,,*@cognizant.com,,A012180,COGNIZANT TECHNOLOGY SOLUTIONS HOLDINGS LLC,,US,0.9672
+P068,acc_borderline,account,A011331,Stadtwerke Köln Gesellschaft mit beschränkter Haftung,,,DE,A017282,Stadtwerke Osnabruck Aktiengesellschaft,https://www.stadtwerke-osnabrueck.de,DE,0.0361
+P069,acc_borderline,account,A010601,Berlin Hospital Society,,,DE,A017901,Berlin,https://www.berlin.de/,DE,0.0914
+P070,acc_parent_child,account,A021530,Aker Holding,https://www.akerasa.com/,,NO,A029564,Aker,https://www.akerasa.com,NO,0.9317
+P071,lead_borderline,lead,L011914,Augsburger Aktienbank,,*@aab.de,,A034631,AAB,,BE,0.3963
+P072,acc_borderline,account,A005221,CHINA LODGING HOLDINGS (HK) LIMITED,huazhu.com,,HK,A027603,China Recycling Energy Corporation,,US,0.0002
+P073,acc_high,account,A007288,Statutární město Chomutov,https://www.chomutov.cz/,,CZ,A008060,Statutární město Kladno,,CZ,0.3479
+P074,acc_parent_child,account,A026576,Pfizer Aktiebolag,https://www.pfizer.se/,,SE,A032136,PFIZER INC.,,US,0.0041
+P075,acc_parent_child,account,A034159,SACYR ACTIVOS I SA,,,ES,A034547,SACYR SA,,ES,0.3778
+P076,lead_borderline,lead,L012507,olav thon eiendomsselskap,http://www.olt.no,*@olt.no,,A005465,"OTE, a.s.",,CZ,0.4237
+P077,lead_freemail,lead,L007575,SBパワー株式会社,,*@qq.com,JP,A010421,SBパワー株式会社,,JP,0.9783
+P078,lead_alias_name,lead,L001618,MARIE BRIZARD WINE & SPIRITS,http://www.belvedere.fr,*@belvedere.fr,,A036215,Marie Brizard Wine & Spirits,http://www.belvedere.fr,FR,0.9973
+P079,acc_same_name_diff_country,account,A013250,Siemens S.p.A.,,,IT,A016937,Siemens S.A.,http://www.siemens.com/entry/es/es/,ES,0.3881
+P080,acc_high,account,A010408,Mitsubishi UFJ Financial Group,http://www.mufg.jp/,,JP,A010409,미쓰비시ufj파이낸셜 그룹,http://www.mufg.jp/,JP,0.6595
+P081,acc_same_name_diff_country,account,A012675,SIEMENS S.A.S,,,FR,A015823,SIEMENS AS,,NO,0.0272
+P082,acc_borderline,account,A015389,Stadtwerke Gießen AG,,,DE,A015675,Stadtwerke Werdau,https://www.stadtwerke-werdau.de,DE,0.2056
+P083,acc_shared_domain_diff_site,account,A005375,Institute of Experimental Botany of the Czech Academy of Sciences,http://www.ueb.cas.cz,,CZ,A005376,institute of exeprimental botany of the czech academy of sciences,cas.cz,,0.7652
+P084,lead_borderline,lead,L011506,Raiffeisenbank Reute-Gaisbeuren,,*@rb-reute-gaisbeuren.de,,A017715,Raiffeisenbank eG,,DE,0.3414
+P085,acc_borderline,account,A007291,Blue Style a.s.,,,CZ,A019832,Blue Bird Body Company,https://www.blue-bird.com/,US,0.0002
+P086,acc_shared_domain_diff_site,account,A018827,FREMTIND LIVSFORSIKRING AS,sparebank1.no/no,,NO,A029353,SpareBank 1 Modum,sparebank1.no,,0.0333
+P087,lead_freemail,lead,L010967,Stadtwerke Augsburg Holding GmbH,,*@gmail.com,DE,A017461,Stadtwerke Augsburg Holding GmbH,,DE,0.9783
+P088,acc_borderline,account,A016345,Volksbank Amelsbüren,https://www.vb-amelsbueren.de/,,DE,A016696,Volksbank Münsterland Nord eG,vrst.de,DE,0.0047
+P089,acc_shared_domain_diff_site,account,A008921,ČEZObnovitelné zdroje,cez.cz,,CZ,A024294,Czech Gas Networks Investments,cez.cz/lu,LU,0.0006
+P090,lead_freemail,lead,L000505,TECHNICOLOR MEDIA SERVICES (UK) LTD,,*@proton.me,GB,A019316,TECHNICOLOR MEDIA SERVICES (UK) LTD,,GB,0.9783
+P091,acc_same_name_diff_country,account,A002682,SAMSARA,,,LU,A002683,Samsara,http://samsara.com/,MT,0.3881
+P092,lead_borderline,lead,L012719,Stiftung Die Gute Hand,,*@die-gute-hand.de,,A015984,"STIFTUNG ""LEBENDIGE STADT""",,DE,0.2473
+P093,lead_freemail,lead,L012066,EAST TEXAS BAPTIST UNIVERSITY,,*@outlook.com,,A026174,East-West University Inc,,US,0.4781
+P094,acc_borderline,account,A016113,Stadtwerke Georgsmarienhütte,http://www.sw-gmhuette.de,,DE,A017845,Stadtwerke Bochum GmbH,,DE,0.2083
+P095,acc_shared_domain_diff_site,account,A025762,WEISHAUPT (U.K.) LIMITED,weishaupt.de/gb,,GB,A025763,WEISHAUPT (U.K.) LIMITED,www.weishaupt.de,,0.9926
+P096,acc_borderline,account,A010668,ATLAS Einrichtungs-Einkauf GmbH,,,DE,A022890,ATLAS COPCO ENERGAS GMBH,atlascopco.com,DE,0.1270
+P097,lead_borderline,lead,L011909,stadtwerke frankfurt (oder) gmbh,https://www.stadtwerke-ffo.de/,*@stadtwerke-ffo.de,,A017067,Stadtwerke Lünen Gesellschaft mit beschränkter Haftung,,DE,0.2228
+P098,lead_borderline,lead,L011584,Marcato Capital Management,,*@marcato.com,,A003706,"MIDLAND CREDIT MANAGEMENT, INC.",,US,0.2833
+P099,acc_high,account,A006959,Všeruby,http://www.vseruby.info/,,CZ,A006960,Mestys Vseruby,vseruby.info,CZ,0.9725
+P100,acc_high,account,A031251,Keitele Timber,http://www.keitelegroup.fi/,,FI,A031252,Keitele Timber Oy,www.keitelegroup.fi,FI,0.9983
+P101,acc_borderline,account,A015780,Sparkasse Osterode am Harz,,,DE,A017381,Sparkasse Marburg-Biedenkopf,http://www.skmb.de/,DE,0.0792
+P102,acc_high,account,A033819,PAN QUIMICA FARMACEUTICA SOCIEDAD ANONIMA,,,,A033820,PAN QUIMICA FARMACEUTICA SOCIEDAD ANOaIMA,,,0.6072
+P103,lead_borderline,lead,L012739,Deutscher Stahlbau-eVrband,,*@deutscherstahlbau.de,,A011447,Deutscher Bauernverband e.V.,,DE,0.2716
+P104,lead_borderline,lead,L011757,Raiffeisenbank Handewitt,http://www.raibahandewitt.de/,*@raibahandewitt.de,,A017715,Raiffeisenbank eG,,DE,0.4209
+P105,lead_borderline,lead,L011618,Volksbank Seesen,,*@myvoba.com,,A014973,Volksbank Esens eG,,DE,0.4073
+P106,lead_parent_domain,lead,L004618,Paulaner Brauerei Gruppe Sales & Marketing GmbH,,*@mail.ru,DE,A013983,Paulaner Brauerei Gruppe Sales & Marketing GmbH,,DE,0.9783
+P107,acc_shared_domain_diff_site,account,A032946,"Association for Electrical, Electronic and Information Technologies",https://www.vde.com/de,,DE,A032947,VDE,vde.com,,0.1100
+P108,acc_high,account,A015313,SIEMENS,,,BE,A015314,Siemens,http://www.siemens.com/entry/be/en/,BE,0.9864
+P109,acc_parent_child,account,A031678,Tampereen kaupunki,,,FI,A031752,Tampereen Energia Sähköverkko Oy,,FI,0.0976
+P110,acc_shared_domain_diff_site,account,A000873,EURO DEPOT ESPAÑA SA,kingfisher.com/es,,ES,A000874,"EURO DEPOT ESPAÑA SA, SOCIEDAD UNIPERSONAL",kingfisher.com,ES,0.5458
+P111,lead_freemail,lead,L000949,OBOTRITIA CAPITAL KGAA,,*@outlook.com,DE,A010797,Obotritia Capital KGaA,,DE,0.9783
+P112,lead_borderline,lead,L009529,,,*@bkgev.de,DE,A010600,Berlin Hospital Society,https://www.bkgev.de/,DE,0.3314
+P113,acc_high,account,A037227,Anadarko Petroleum,http://www.anadarko.com/,,US,A037228,Anadarko Petroleum Corporation,,US,0.9589
+P114,acc_shared_domain_diff_site,account,A014900,SOCPE PETITE PIECE,https://pip.ipex.it/,,FR,A015746,"PARC EOLIEN DE PREUSEVILLE, S.A.R.L.",ipex.it,FR,0.0621
+P115,lead_borderline,lead,L011839,Airbus DS Geo,spotimage.com,*@spotimage.com,,A001720,AIRBUS DS SLC,,FR,0.3434
+P116,lead_alias_name,lead,L006430,LARS LARSEN GROUP A/S,,*@gmail.com,,A002663,Lars Larsen Group A/S,,DK,0.9672
+P117,lead_parent_domain,lead,L007876,Lotus Bakeries Corporate,,*@proton.me,,A026760,Lotus Bakeries Corporate,,BE,0.9672
+P118,lead_alias_name,lead,L002602,Bulovka,https://www.obecbulovka.cz/,*@yahoo.com,,A006590,Bulovka,https://www.obecbulovka.cz/,CZ,0.9973
+P119,acc_borderline,account,A013813,Volksbank Kassel Göttingen eG,https://www.volksbank-kassel-goettingen.de/,,DE,A014922,VOLKSBANK BAD LAER-BORGLOH-HILTR-MELLE,,,0.1382
+P120,lead_borderline,lead,L012395,American Immigration Lawyers Association,,*@aila.org,,A021613,AMERICAN MEDICAL ASSOCIATION,,US,0.4454
+P121,acc_shared_domain_diff_site,account,A006118,Metrostav Development,https://metrostavdevelopment.cz/cs,,CZ,A006119,Metrostav Deveolpment,metrostavdevelopment.cz,,0.8217
+P122,lead_freemail,lead,L007331,CompuGroup Medical Česká republika,,*@gmail.com,CZ,A006712,CompuGroup Medical Česká republika s.r.o.,cgm.com/cz,CZ,0.9783
+P123,lead_alias_name,lead,L004805,三越伊勢丹控股,https://www.imhds.co.jp/,*@hotmail.com,,A017149,Isetan Mitsukoshi Holdings,https://www.imhds.co.jp/,JP,0.4977
+P124,acc_high,account,A014965,Volksbank Lubeck eG,,,,A015111,Volksbank BRAWO eG,http://www.volksbank-brawo.de/,DE,0.3105
+P125,lead_borderline,lead,L011668,Bundesverband Drukc und Medien,,*@bvdm-online.de,,A011636,Bundesverband der deutschen Fischindustrie und des Fischgroßhandels e.V.,,DE,0.2778
+P126,acc_borderline,account,A021022,"City of Compton, California",,,US,A024944,"City of Reno, Nevada",,,0.1487
+P127,acc_borderline,account,A028183,Great Lakes Bible College,https://www.glcc.edu/,,US,A028411,Great Lakes Chemical Corporation,,US,0.2971
+P128,lead_alias_name,lead,L002701,Alfred Berg Kapitalforvaltning AS,,*@alfredberg.no,NO,A022336,ALFRED BERG KAPITALFORVALTNING AS,https://alfredberg.no,NO,0.9982
+P129,acc_borderline,account,A007156,Obec Starý Mateřov,http://www.starymaterov.cz/,,CZ,A009483,Obec Dobsice,https://www.dobsice.cz/,CZ,0.0033
+P130,acc_same_name_diff_country,account,A013257,Siemens (Denmark),http://www.siemens.com/entry/dk/da/,,DK,A015823,SIEMENS AS,,NO,0.3881
+P131,lead_parent_domain,lead,L010833,UNIPER ENERGY DMCC,,*@fortum.com,AE,A025184,UNIPER ENERGY DMCC,,AE,0.9783
+P132,acc_parent_child,account,A001137,SYNTHOMER CZECH S.R.O.,synthomer.com,,CZ,A001256,SYNTHOMER PLC,,GB,0.0005
+P133,lead_alias_name,lead,L004531,siemens as,,*@siemens.no,,A015824,Siemens (Norway),http://w3.siemens.no/,NO,0.9960
+P134,lead_borderline,lead,L011388,Bohemia Sekt,,*@bohemiasekt.cz,,A009245,BOHEMIA RINGS s.r.o.,,CZ,0.3633
+P135,acc_parent_child,account,A024240,TERADATA CORPORATION,https://www.teradata.com,,US,A029183,TERADATA HOLDINGS B.V.,,NL,0.0017
+P136,acc_same_name_diff_country,account,A012673,SIEMENS SAS,,,FR,A016936,SIEMENS SA,http://www.siemens.com/entry/es/es/,ES,0.3881
+P137,lead_borderline,lead,L011496,German Actuarial Society,,*@aktuar.de,,A010645,German Speleologcial Federation,,DE,0.2285
+P138,acc_parent_child,account,A036549,Kraft Heinz,https://www.kraftheinzcompany.com/,,US,A036588,KRAFT HEINZ SINGAPORE HOLDING PTE. LTD.,,SG,0.0027
+P139,acc_same_name_diff_country,account,A001481,SYNTHOMER A.S.,https://www.synthomer.com/about-us/global-locations/sokolov-czech-republic/,,CZ,A001976,SYNTHOMER LIMITED,,GB,0.0803
+P140,lead_freemail,lead,L001322,FORMUE NORGE AS,,*@qq.com,,A024572,FORMUE NORGE AS,,NO,0.9672
+P141,acc_same_name_diff_country,account,A018474,Santander Consumer Finance,https://www.santanderconsumer.com/,,ES,A026900,Santander Consumer Finance Oy,https://santander.com/,FI,0.0067
+P142,lead_alias_name,lead,L005526,,seat.com,*@web.de,,A014361,SEAT,https://www.seat.com/,ES,0.8199
+P143,lead_freemail,lead,L000371,Bølerveien 65 AS,,*@hotmail.com,NO,A019244,Bølerveien 65 AS,,NO,0.9783
+P144,lead_parent_domain,lead,L000185,LANDIS + GYR LIMITED,landisgyr.com,*@landisgyr.com,,A016609,Landis+Gyr,https://www.landisgyr.com/,CH,0.9991
+P145,acc_parent_child,account,A024911,Bombardier Transportation Treasury Canada Inc.,,,CA,A038446,Bombardier,https://www.bombardier.com/,CA,0.2096
+P146,acc_high,account,A004792,Energa S.A.,www.energa.pl,,PL,A004793,Enegra,energa.pl,PL,0.9533
+P147,acc_high,account,A017078,Mesa Parts GmbH,,,DE,A017079,Mesa Parts GmbH,,DE,0.9589
+P148,acc_parent_child,account,A007269,CONTEG Czech a.s.,conteg.com/cz,,CZ,A007978,"CONTEG, spol. s r.o.",https://www.conteg.com/czech-republic,CZ,0.0499
+P149,lead_borderline,lead,L011661,Bundesarbeitsgemeinschaft der Freien Wohlfarhtspflege,,*@bagfw.de,,A012775,"Bundesarbeitsgemeinschaft SELBSTHILFE von Menschen mit Behinderung, chronischer Erkrankung und ihren Angehörigen e.V. (BAG SELBSTHILFE)",,DE,0.2115
+P150,acc_borderline,account,A013989,Stadtwerke Oranienburg GmbH,,,DE,A018092,Stadtwerke Willich Gesellschaft mit beschränkter Haftung,https://stadtwerke-willich.de/,DE,0.1933
+P151,acc_borderline,account,A000465,RINGKJØBING LANDBOBANK,,,,A029320,RINGERIKES SPAREBANK,,NO,0.0618
+P152,acc_high,account,A028585,Systra Canada Inc.,https://www.systra.com/canada/,,CA,A028586,Systra Canada Inc.,https://www.systra.com/canada/,CA,0.9983
+P153,lead_freemail,lead,L010015,Polarbrödsgruppen Aktiebolag,,*@yahoo.com,,A026787,Polarbrödsgruppen Aktiebolag,,SE,0.9672
+P154,acc_shared_domain_diff_site,account,A000484,First International Bank Of Israel Ltd.,https://online.fibi.co.il/wps/portal/FibiMenu/HomeEN,,IL,A000485,イスラエル第一国際銀行,http://www.fibi.co.il,IL,0.0590
+P155,acc_high,account,A003596,Bachoco,http://www.bachoco.com.mx/,,MX,A003597,INDUSTRIAS BACHOCO S.A.B. DE C.V.,https://www.bachoco.com.mx/,,0.9879
+P156,acc_same_name_diff_country,account,A013249,Siemens (Italy),http://www.siemens.it/,,IT,A013751,Siemens,http://www.siemens.cz,CZ,0.0205
+P157,acc_borderline,account,A019089,The American School of Classical Studies at Athens,http://www.ascsa.edu.gr/,,US,A027203,"The American Society of Hematology, Inc.",,US,0.0870
+P158,acc_shared_domain_diff_site,account,A018264,MILES,https://miles-mobility.com/en-de,,DE,A018265,MIsES,miles-mobility.com,,0.3064
+P159,acc_high,account,A012147,Marubeni,https://www.marubeni.com/,,JP,A012148,Marbueni,marubeni.com,,0.9705
+P160,acc_borderline,account,A026590,"Quaker Houghton PA, Inc.",,,US,A027739,Quaker China Holdings B.V.,,NL,0.0001
+P161,acc_parent_child,account,A005160,Verizon,https://www.verizon.com/,,US,A022682,VERIZON OWNER TRUST 2020-B,,US,0.1587
+P162,lead_borderline,lead,L011633,Lafarge Cementos S.A.U.,,*@lafargeholcim.com,,A022310,LAFARGE,,FR,0.2584
+P163,lead_parent_domain,lead,L005384,protecta.at Finanz- und Versicherungsservice GmbH,,*@gmail.com,AT,A017629,protecta.at Finanz- und Versicherungsservice GmbH,,AT,0.9783
+P164,lead_alias_name,lead,L001829,阿兰努n学院,http://www.alanus.edu/,*@alanus.edu,,A011252,Alanus University of Arts and Social Sciences,http://www.alanus.edu/,DE,0.6405
+P165,lead_parent_domain,lead,L003822,AGILENT TECHNOLOGIES SINGAPORE (HOLDINGS) PTE. LTD.,http://www.agilent.com,*@agilent.com,SG,A027240,AGILENT TECHNOLOGIES SINGAPORE (HOLDINGS) PTE. LTD.,,SG,0.9783
+P166,lead_borderline,lead,L012081,UNIVERSITY OF REDLANDS,www.redlands.edu,*@redlands.edu,,A000833,UNIVERSITY OF YORK,,GB,0.3865
+P167,lead_freemail,lead,L008459,synthos dwory 7 spółka z ograniczoną odpowiedzialnością,,*@proton.me,PL,A005050,SYNTHOS DWORY 7 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,synthosgroup.com,PL,0.9783
+P168,acc_high,account,A004483,VESTLANDETS INNOVASJONSSELSKAP AS,https://www.visinnovasjon.no/,,NO,A004484,VIS,https://www.visinnovasjon.no/,NO,0.3873
+P169,acc_parent_child,account,A022843,VOLVO CE INDIA PRIVATE LIMITED,,,IN,A025900,Volvo Turcks,,,0.2215
+P170,acc_parent_child,account,A006008,Masák & Partner Group,https://www.masak-partner.com/,,CZ,A006473,Prime Company,masak-partner.com/cz,,0.1204
+P171,acc_same_name_diff_country,account,A012673,SIEMENS SAS,,,FR,A015823,SIEMENS AS,,NO,0.0272
+P172,acc_borderline,account,A031270,Suomen Taiteilijaseura – Konstnärsgillet i Finland ry,artists.fi,,FI,A031407,Suomen Kuurosokeat ry,,FI,0.1931
+P173,acc_high,account,A032973,AS207960 Cyfyngedig,,,GB,A032976,AS207960 Cyfungedig,,,0.5182
+P174,acc_parent_child,account,A004790,ENERGA SPÓŁKA AKCYJNA,https://www.energa.pl/,,PL,A004935,ENERGA KOGENERACJA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,,PL,0.2116
+P175,acc_same_name_diff_country,account,A012673,SIEMENS SAS,,,FR,A013250,Siemens S.p.A.,,IT,0.1690
+P176,lead_borderline,lead,L011867,GERMAN ZOOLOGICAL SOCIETY,,*@dzg-ev.de,,A033020,GERMANLGEOPHYSICAL SOCIETY,,,0.3371
+P177,acc_shared_domain_diff_site,account,A035912,Banque Dupuy de Parseval,https://www.banquepopulaire.fr/bdp/,,FR,A036170,Banque populaire Grand Ouest,http://www.bpgo.banquepopulaire.fr,FR,0.1118
+P178,acc_borderline,account,A020575,General Motors Corporation,gm.com,,US,A027903,General Tire and Rubber Company,,US,0.0214
+P179,acc_high,account,A014683,pmdtechnologies ag,https://www.pmdtec.com,,DE,A014684,pmdtechnologies ag,https://www.pmdtec.com,DE,0.9983
+P180,lead_borderline,lead,L011682,Sparkasse Spree-Neiße,,*@sparkasse-spree-neisse.de,,A013785,Sparkasse Allgäu,,DE,0.3346
+P181,acc_parent_child,account,A018840,Starz Entertainment,http://www.lionsgate.com,,US,A026071,Lionsgate Casada,lionsgate.com,,0.5939
+P182,acc_shared_domain_diff_site,account,A029351,SPAREBANK 1 MODUM,http://www.modum.sparebank1.no/,,NO,A029353,SpareBank 1 Modum,sparebank1.no,,0.9773
+P183,acc_parent_child,account,A000828,Ramboll,https://www.ramboll.com/,,DK,A002550,RAMBØLL DANMARK A/S,,DK,0.1794
+P184,acc_shared_domain_diff_site,account,A015746,"PARC EOLIEN DE PREUSEVILLE, S.A.R.L.",ipex.it,,FR,A017664,"BETA Renewables France, S.A.S.",https://pip.ipex.it/,FR,0.0564
+P185,lead_alias_name,lead,L003858,Milwaukee Electric Tool Corporation,,*@proton.me,,A028072,MILWAUKEE ELECTRIC TOOL CORPORATION,http://www.milwaukeetool.com/,US,0.9672
+P186,lead_borderline,lead,L011552,Wendel GmbH,,*@wendel-email.de,,A035747,WENDEL,https://www.wendelgroup.com,FR,0.3862
+P187,lead_freemail,lead,L006013,energy plus,,*@gmail.com,,A000909,ENERGY PLUS,,AL,0.9672
+P188,lead_freemail,lead,L006811,HANS HENNIG GMBH,,*@mail.ru,DE,A015607,Hans Hennig GmbH,,DE,0.9783
+P189,acc_borderline,account,A001182,University of Essex,http://www.essex.ac.uk,,GB,A010842,University of Tübingen,https://uni-tuebingen.de/,DE,0.0001
+P190,acc_borderline,account,A004470,"United HealthCare Services, Inc.",,,US,A021737,United States Coast Guard Academy Alumni Association,http://www.cgaalumni.org/s/1043/uscga/start.aspx,US,0.0711
+P191,lead_parent_domain,lead,L003863,SULZER MIXPAC DENMARK A/S,www.sulzer.com,*@sulzer.com,,A017364,SULZER MIXPAC DENMARK A/S,,DK,0.9672
+P192,lead_parent_domain,lead,L008948,"ENERGYCO II, S.A.",corporacionalba.es,*@corporacionalba.es,,A021988,"ENERGYCO II, S.A.",,PT,0.9672
+P193,acc_parent_child,account,A000636,mondelez ireland production liimted,mondelezinternational.com,,,A022368,Mondelēz International,www.mondelezinternational.com,,0.8257
+P194,acc_high,account,A033974,ARESBANK SOCIEDAD ANONIMA,,,ES,A033975,Aresbank,http://www.aresbank.es,ES,0.9864
+P195,acc_borderline,account,A020482,"City of Blue Springs, Missouri",http://www.bluespringsgov.com,,US,A021288,"City of Odessa, Texas",http://www.odessa-tx.gov/,US,0.0033
+P196,acc_shared_domain_diff_site,account,A012462,"NEO Plouvienm, S.A.S.",https://pip.ipex.it/,,ES,A017112,"Parc Eolien de Tarzy, S.A.R.L.",ipex.it,FR,0.0006
+P197,lead_parent_domain,lead,L010358,J. SAFRA SARASIN (DEUTSCHLAND) GMBH,https://www.jsafrasarasin.com/,*@jsafrasarasin.com,,A021046,J. Safra Sarasin,https://www.jsafrasarasin.com/de/home.html,CH,0.9960
+P198,acc_borderline,account,A005036,Energy Gate Europe spółka z ograniczoną odpowiedzialnością,,,PL,A006011,ENERGY TRADING COMPANY,http://www.energytrading.sk/,SK,0.0005
+P199,lead_freemail,lead,L000581,VTF L'ESPRIT VACANCES,,*@yahoo.co.uk,FR,A035093,VTF L'Esprit Vacances,https://www.vtf-vacances.com,FR,0.9783
+P200,acc_borderline,account,A007837,Obec Kočov,https://www.obeckocov.cz/,,CZ,A009519,Obec Smilovice,,CZ,0.1243
+P201,lead_alias_name,lead,L002569,Internet Projects Ltd,,*@web.de,GB,A036402,INTERNET PROJECTS LTD,,GB,0.9783
+P202,lead_alias_name,lead,L008445,国際スパイ博物館,,*@spymuseum.org,US,A025380,International Spy Museum,https://www.spymuseum.org/,US,0.8767
+P203,lead_alias_name,lead,L010735,Cooley LLP,www.cooley.com,*@gmail.com,US,A020884,Cooley LLP,http://www.cooley.com/index.aspx,US,0.9994
+P204,lead_borderline,lead,L011773,Volksbank Westerstede,vb-westerstede.de,*@vb-westerstede.de,,A017444,Volksbank Weserbergland eG,,DE,0.3359
+P205,acc_parent_child,account,A032338,snam,snam.it,,,A032724,"SNAM RETE GAS S.P.A. O, IN FORMA ABBREVIATA SNAM RG S.P.A.",,IT,0.3670
+P206,lead_freemail,lead,L004043,rauma energi holding as,,*@gmx.de,NO,A025854,RAUMA ENERGI HOLDING AS,,NO,0.9783
+P207,lead_alias_name,lead,L008387,مقاطعة لانكستر,,*@lancaster.pa.us,US,A028035,Lancaster County,http://www.co.lancaster.pa.us,US,0.2871
+P208,lead_freemail,lead,L003581,24 Indoor,https://24indoor.com/,*@mail.ru,NL,A030566,24 Indoor,https://24indoor.com/,NL,0.9994
+P209,acc_parent_child,account,A016835,Sony Group,https://www.sony.com/ja/,,JP,A019343,SONY EUROPE B.V.,,NL,0.0004
+P210,lead_freemail,lead,L010707,GENERAL ENERGY,,*@outlook.com,,A006607,General Energy a.s.,http://www.generalenergy.cz/,CZ,0.9890
+P211,lead_parent_domain,lead,L008347,explotaciones agricolas la gabarda s.a.,bonarea.com,*@bonarea.com,ES,A033830,EXPLOTACIONES AGRICOLAS LA GABARDA S.A.,,ES,0.9783
+P212,acc_high,account,A027830,Internation. Handelskammarens Sv Nationalkomm,https://icc.se/,,SE,A027831,ICC Sweden,https://icc.se/,SE,0.3839
+P213,acc_shared_domain_diff_site,account,A019911,"Enel Green Power España, S.L.",http://www.enelgreenpower.com/es-ES/iberia/,,ES,A019912,"Enel Green Power España, S.L.",https://www.enelgreenpower.com/,ES,0.9687
+P214,acc_high,account,A025932,"Golden Entertainment, Inc.",http://www.goldenentertainment.com,,US,A025933,Golden Entertainment,http://www.goldenentertainment.com,US,0.9994
+P215,acc_same_name_diff_country,account,A012675,SIEMENS S.A.S,,,FR,A013249,Siemens (Italy),http://www.siemens.it/,IT,0.3881
+P216,acc_high,account,A011275,Allianz Foundation,https://allianzfoundation.org/,,DE,A011276,Allianz Umweltstiftung,https://allianzfoundation.org/,DE,0.9497
+P217,acc_parent_child,account,A024241,Teradata,https://www.teradata.com,,US,A029814,Teradata Global Holdings B.V.,,NL,0.0127
+P218,acc_same_name_diff_country,account,A012674,Siemens SAS,http://www.siemens.com/fr/fr/home.html,,FR,A013751,Siemens,http://www.siemens.cz,CZ,0.0205
+P219,acc_same_name_diff_country,account,A005524,Ptáček - velkoobchod,https://www.ptacek.cz/,,CZ,A006015,"Ptáček - veľkoobchod, a. s.",https://www.ptacek.sk/,SK,0.0067
+P220,lead_parent_domain,lead,L000242,ACROSS SYSTEMS TMBH,,*@csisoftware.com,DE,A033473,Across Systems GmbH,,DE,0.6344
+P221,lead_parent_domain,lead,L008645,Deka International S.A.,deka.de,*@deka.de,LU,A015903,Deka International S.A.,,LU,0.9967
+P222,acc_parent_child,account,A028160,BOC ASET MANAGEMENT LTD,bankofcyprus.com,,,A038056,bank of cyprus limited,www.bankofcyprus.com,CY,0.5576
+P223,acc_shared_domain_diff_site,account,A013157,Axpo Austria,https://www.axpo.com/axpo/global/en/home.html#/content/axpo/global/en/home/portrait/at/_jcr_content/contentPar.html,,AT,A017680,AXPO UK LIMITED,https://www.axpo.com/gb/en/about-us.html,GB,0.0015
+P224,acc_high,account,A009538,Primoco UAV SE,,,CZ,A009540,PRIMOCO UAV,https://uav-stol.com/,CZ,0.9589
+P225,lead_parent_domain,lead,L008038,LIFE TECHNOLOGIES LIMITED,thermofisher.com,*@gmx.de,,A038039,LIFE TECHNOLOGIES LIMITED,,GB,0.9672
+P226,acc_parent_child,account,A011337,Germany Red Cross,drk.de,,DE,A016907,GRC Oldenburg,https://www.lv-oldenburg.drk.de/,,0.0378
+P227,acc_same_name_diff_country,account,A013257,Siemens (Denmark),http://www.siemens.com/entry/dk/da/,,DK,A013750,"Siemens, s.r.o.",,CZ,0.3881
+P228,lead_alias_name,lead,L003499,Williams,,*@williams.com,US,A037337,Williams Companies,http://www.williams.com,US,0.9994
+P229,acc_borderline,account,A015090,Sparkasse Fürstenfeldbruck,http://www.sparkasse-ffb.de,,DE,A016148,Sparkasse Schwarzwald-Baar,,DE,0.0824
+P230,acc_borderline,account,A015276,Sparkasse Neckartal-Odenwald,http://www.sparkasse-neckartal-odenwald.de/,,DE,A016033,Sparkasse Schwyz,http://www.sparkasse.ch/,CH,0.0001
+P231,acc_borderline,account,A013814,Volksbank Kassel Göttingen,https://www.volksbank-kassel-goettingen.de/,,DE,A016696,Volksbank Münsterland Nord eG,vrst.de,DE,0.0032
+P232,acc_borderline,account,A022782,American Society of Clinical Oncology,http://www.asco.org,,US,A037986,"AMERICAN INTERNATIONAL GROUP, INC.",,US,0.0459
+P233,lead_alias_name,lead,L001773,Carpetright plc,,*@outlook.com,GB,A001452,Carpetright,https://www.carpetright.co.uk,GB,0.9928
+P234,lead_freemail,lead,L009783,Rauman Asunnot Oy,,*@gmail.com,,A030784,Rauman Asunnot Oy,,FI,0.9672
+P235,lead_parent_domain,lead,L001398,IMATRA ELEKTER ATKSIASELTS,,*@gmail.com,,A027605,IMATRA ELEKTER AKTSIASELTS,,EE,0.6005
+P236,acc_high,account,A005450,VEMEX s.r.o.,,,CZ,A005452,VEMEX,https://www.vemex.cz/,CZ,0.9864
+P237,lead_parent_domain,lead,L006345,IDFINANCE PLAZO S.L. (SOCIEDAD UNIPERSONAL),www.idfinance.com,*@idfinance.com,ES,A034310,IDFINANCE PLAZO S.L. (SOCIEDAD UNIPERSONAL),,ES,0.9783
+P238,acc_parent_child,account,A035159,DELTA DORE FINANCE,,,FR,A035389,DELTA DORE,,FR,0.1282
+P239,lead_borderline,lead,L011186,William Demant Kollegiet,https://www.wdk.dk/,*@wdk.dk,,A027928,WILLIAM PENN CHARTER SCHOOL INC.,,US,0.2189
+P240,lead_alias_name,lead,L008746,Volksbank Kassel Göttingen eG,,*@volksbank-kassel-goettingen.de,DE,A013813,Volksbank Kassel Göttingen eG,https://www.volksbank-kassel-goettingen.de/,DE,0.9982
+P241,acc_borderline,account,A031408,The Finnish Deafblind Association,https://kuurosokeat.fi/the-finnish-deafblind-association/,,FI,A031869,Finnish Design Shop Oy,,FI,0.1208
+P242,acc_parent_child,account,A029567,LERØY SEAFOOD GROUP ASA,https://www.leroyseafood.com/,,NO,A030458,Lerøy Seafood Holding B.V.,leroyseafood.com/nl,NL,0.0011
+P243,lead_parent_domain,lead,L002631,,,*@energa.pl,PL,A004790,ENERGA SPÓŁKA AKCYJNA,https://www.energa.pl/,PL,0.8026
+P244,lead_freemail,lead,L009285,lime invest & co. s.c.a.,,*@gmail.com,,A036599,LIME INVEST & CO. S.C.A.,,LU,0.9672
+P245,acc_parent_child,account,A013052,EDISON NEXT S.P.A,http://www.edf-fenice.com/,,IT,A017722,EDISON SPA,edison.it,,0.0225
+P246,acc_borderline,account,A018376,riverside school,,,,A023910,Riverside Church,https://www.trcnyc.org/,US,0.1406
+P247,acc_same_name_diff_country,account,A015314,Siemens,http://www.siemens.com/entry/be/en/,,BE,A016936,SIEMENS SA,http://www.siemens.com/entry/es/es/,ES,0.9404
+P248,lead_borderline,lead,L012682,CORPORACIÓN MASAVEU,,*@corporacionmasaveu.com,,A034233,"CORPORACION FINANCIERA ALBA, S.A.",,ES,0.3264
+P249,acc_shared_domain_diff_site,account,A004956,ENEA CIEPŁO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,enea.pl/pl,,PL,A004957,ENEA CIEPLO SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA,https://enea.pl/,PL,0.9687
+P250,lead_freemail,lead,L002290,METLEN ENERGY & METALS PLC,,*@yahoo.com,,A001837,Metlen Energy & Metals,https://www.metlengroup.com,GR,0.9672
+P251,acc_parent_child,account,A024566,NELJA ENERGIA AS,vardar.no,,EE,A029443,VARDAR,,NO,0.0009
+P252,lead_borderline,lead,L011631,Stadtwerke Forchheim,,*@stadtwerke-forchheim.de,,A011331,Stadtwerke Köln Gesellschaft mit beschränkter Haftung,,DE,0.3734
+P253,lead_borderline,lead,L012743,Verband Deutsche Nierenzentren,dnev.de,*@dnev.de,,A034585,Verband Internationaler Banken in Deutschland e.V.,,DE,0.2645
+P254,acc_parent_child,account,A020241,dexcom operating ltd.,,,GB,A028869,Dexcom,dexcom.com,US,0.0036
+P255,lead_freemail,lead,L009692,PRIMEPULSE SE,,*@yahoo.co.uk,,A016462,PRIMEPULSE SE,,DE,0.9672
+P256,acc_shared_domain_diff_site,account,A012502,CENTRALE EOLIENNE GUELTAS NOYAL-PONTIVY,https://pip.ipex.it/,,FR,A015746,"PARC EOLIEN DE PREUSEVILLE, S.A.R.L.",ipex.it,FR,0.0589
+P257,lead_alias_name,lead,L007083,ペラム,www.pelhamonline.com,*@proton.me,,A026329,Pelham,http://www.pelhamonline.com/,US,0.7473
+P258,acc_borderline,account,A001137,SYNTHOMER CZECH S.R.O.,synthomer.com,,CZ,A001976,SYNTHOMER LIMITED,,GB,0.0005
+P259,acc_borderline,account,A015388,Sparkasse Engen-Gotmadingen,sparkasse-engo.de,,,A017943,Sparkasse Waldeck-Frankenberg,www.sparkasse-wa-fkb.de,DE,0.0072
+P260,lead_alias_name,lead,L000637,EDISON SPA,edison.it,*@qq.com,IT,A017721,Edison,https://www.edison.it/,IT,0.9994
+P261,acc_high,account,A010909,Deutsches Rotes Kreuz Landesverband Baden-Württemberg,https://www.drk-baden-wuerttemberg.de/,,DE,A011407,Deutsches Rotes Kreuz Landesverband Bremen e.V.,,DE,0.3306
+P262,acc_parent_child,account,A022388,VESTAS WIND SYSTEMS A/S,,,DK,A034343,"VESTAS MANUFACTURING SPAIN, S.L.U.",,,0.0101
+P263,acc_parent_child,account,A000828,Ramboll,https://www.ramboll.com/,,DK,A002772,RAMBOLL UK LIMITED,http://www.ramboll.co.uk/,GB,0.0001
+P264,acc_same_name_diff_country,account,A013750,"Siemens, s.r.o.",,,CZ,A016936,SIEMENS SA,http://www.siemens.com/entry/es/es/,ES,0.0803
+P265,lead_alias_name,lead,L009561,横幅银行,https://www.bannerbank.com/,*@bannerbank.com,US,A038462,Banner Bank,http://www.bannerbank.com,US,0.8215
+P266,lead_parent_domain,lead,L001804,インド国立銀行日本,,*@sbi.bank.in,JP,A003123,インド国立銀行日本,,JP,0.9783
+P267,lead_borderline,lead,L012092,SALESFORCE VENTURES,,*@salesforceventures.com,,A004139,salesforce tecnologia lta,,,0.2275
+P268,acc_borderline,account,A020893,"City of Bowling Green, Kentucky",,,US,A025496,City of Redondo Beach,,US,0.0788
+P269,lead_freemail,lead,L000490,De Vrije Energie Producent,dvep.nl,*@proton.me,NL,A030030,De Vrije Energie Producent B.V.,http://www.dvep.nl,NL,0.9982
+P270,lead_borderline,lead,L011339,ČSAD AUTOBUSY Čeaké Budějovice,,*@busem.cz,,A005358,ČSAD Hodonín a.s.,,CZ,0.2455
+P271,acc_parent_child,account,A030213,Transdev Nederland Holding N.V.,,,NL,A035723,Transdev Group,https://www.transdevgroup.co.uk/,FR,0.0008
+P272,acc_shared_domain_diff_site,account,A029373,Gjensidige Bank,https://www.direct.nordea.no/,,NO,A029374,Gjensidige Bank ASA,www.nordea.no,NO,0.9687
+P273,acc_high,account,A000846,TATE & LYLE PUBLIC LIMITED COMPANY,http://www.tateandlyle.co.uk/,,GB,A000847,Tate & Lyle,http://www.tateandlyle.co.uk/,GB,0.9983
+P274,lead_borderline,lead,L012684,COMPAÑÍA ESPAÑOLA DE LAMINACIÓN S.L.,celsa.com,*@celsa.com,,A017709,Compañia de Minas Buenaventura S.A.A.,,PE,0.2751
+P275,lead_freemail,lead,L009540,wacker neuson se,,*@gmail.com,DE,A016894,Wacker Neuson SE,http://www.wackerneuson.com,DE,0.9928
+P276,acc_borderline,account,A014774,Sparkasse Battenberg,http://www.sparkasse-battenberg.de/,,DE,A029299,SPAREBANK 1 NØTTERØY - TØNSBERG,,NO,0.0003
+P277,lead_alias_name,lead,L012578,유바,,*@juva.fi,,A019228,Yuba County,https://www.yuba.gov/,US,0.0092
+P278,acc_high,account,A009306,"ENIKA, spol. s r.o.",,,CZ,A036907,ELZACO spol. s r.o.,,CZ,0.3467
+P279,acc_parent_child,account,A011929,"Smith, D.S.",www.dssmith.com,,GB,A033882,DS Smith Spain,http://www.dssmith.com,ES,0.0890
+P280,acc_borderline,account,A011732,Deutsche Stiftung Skletodermie,sklerodermie-stiftung.de,,,A016202,Deutsche Rohstoff AG,,DE,0.2382
+P281,acc_parent_child,account,A029075,"FIFTH THIRD MORTGAGE-MI, LLC",,,US,A038108,"The Fifth Third Bank of Western Ohio, National Association",www.53.com,,0.1309
+P282,acc_high,account,A016964,CARGONET AS,http://www.cargonet.no/,,NO,A016965,CargoNet,http://www.cargonet.no/,NO,0.9994
+P283,acc_parent_child,account,A007712,"Slovenská produkčná, a.s.",jojmediahouse.sk/sk,,SK,A009374,JOJ Media House,http://www.jojmediahouse.sk/,SK,0.1305
+P284,lead_borderline,lead,L011613,Volksbank Sauerland,vb-sauerland.de,*@vb-sauerland.de,,A017444,Volksbank Weserbergland eG,,DE,0.2712
+P285,lead_borderline,lead,L011859,STADTWERKE RBUCK AN DER MUR,,*@stadtwerke-bruck.at,,A011331,Stadtwerke Köln Gesellschaft mit beschränkter Haftung,,DE,0.3205
+P286,lead_alias_name,lead,L008985,Umios,www.umios.com,*@gmail.com,JP,A015268,Ｕｍｉｏｓ株式会社,https://www.umios.com/en/,JP,0.9994
+P287,acc_high,account,A026718,SEFE MARKETING & TRADING SWITZERLAND AG,,,CH,A026719,SEFE Marketing & Trading Switzerland,https://www.sefe-mt.com/location/zug/,CH,0.9589
+P288,lead_freemail,lead,L001759,illinois college of optometry,http://www.ico.edu,*@yahoo.co.uk,,A024247,Illinois College of Optometry,http://www.ico.edu,US,0.9973
+P289,lead_alias_name,lead,L002477,Макмюра,mackmyra.se,*@mackmyra.se,,A028755,mackmyra,https://www.mackmyra.se/,,0.9157
+P290,lead_alias_name,lead,L006721,JetBrains s.r.o.,,*@icloud.com,,A009465,JetBrains,https://www.jetbrains.com/,CZ,0.9890
+P291,acc_parent_child,account,A021382,Philippine National Bank,https://www.pnb.com.ph/,,PH,A033100,PHILIPPINE NATIONAL BANK (EUROPE) PLC,pnb.com.ph,GB,0.8350
+P292,acc_high,account,A014359,VOLKSBANK MINDENER LAND EG,http://www.vb-ml.de/,,,A016566,Volksbank eG Oldenburg-Land Delmenhorst,,DE,0.3372
+P293,lead_parent_domain,lead,L003036,"Teplárny Brno Výroba, a.s.",teplarny.cz,*@yahoo.co.uk,CZ,A008593,"Teplárny Brno Výroba, a.s.",,CZ,0.9783
+P294,acc_high,account,A005303,State Grid Corporation of China,http://www.sgcc.com.cn/,,CN,A005304,State Grid,www.sgcc.com.cn,,0.9179
+P295,acc_high,account,A016088,Österreichische Post Aktiengesellschaft,,,AT,A016639,Österreichische Bundesbahnen-Holding Aktiengesellschaft,https://konzern.oebb.at/,AT,0.3788
+P296,lead_borderline,lead,L011197,Mostostal Warszawa,www.mostostal.waw.pl,*@mostostal.waw.pl,,A004688,MOSTOSTAL ZABRZE SPÓŁKA AKCYJNA,,PL,0.3816
+P297,lead_parent_domain,lead,L009862,Osvětlení a energetické systémy a.s.,https://www.eltodo.cz/en/,*@gmail.com,CZ,A006319,Osvětlení a energetické systémy,eltodo.cz,CZ,0.9982
+P298,acc_parent_child,account,A009771,BOSTON SCIENTIFIC TECHNOLOGY & ENGINEERING SERVICES PRIVATE LIMITED,,,IN,A038549,BOSTON SCIENTIFIC CORPORATION,,US,0.0003
+P299,acc_high,account,A006922,"CHEMCOMEX, a.s.",,,CZ,A006923,Chemcomex,http://www.chemcomex.cz/,CZ,0.9864
+P300,acc_high,account,A027692,Fordham University,https://fordham.edu/,,US,A027693,Fordham University,https://fordham.edu/,US,0.9983
+P301,lead_freemail,lead,L010007,"SOUTHEASTERN ASSET MANAGEMENT, INC.",,*@icloud.com,US,A024020,"SOUTHEASTERN ASSET MANAGEMENT, INC.",,US,0.9783
+P302,acc_borderline,account,A001989,NATIONAL LIBRARY OF SCOTLAND,https://www.nls.uk/,,GB,A012139,NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORPORATION,,US,0.0005
+P303,lead_alias_name,lead,L010335,,gant.com,*@gant.com,SE,A025741,GANT,https://www.gant.com,SE,0.8745
+P304,acc_high,account,A019047,LeapFrog Enterprises,http://www.leapfrog.com/,,US,A019048,leapfrog,leapfrog.com,US,0.9746
+P305,acc_same_name_diff_country,account,A021829,CRITEO B.V.,,,NL,A025081,CRITEO S.R.L.,,IT,0.0272
+P306,acc_borderline,account,A010903,Ming Le Sports,http://www.minglesports.de/,,DE,A012743,明治ホールディングス株式会社,https://www.meiji.com/,JP,0.0000
+P307,lead_freemail,lead,L007692,VWR International,http://no.vwr.com,*@mail.ru,,A034946,VWR International,http://no.vwr.com,BE,0.9996
+P308,lead_parent_domain,lead,L004549,royal challengers sports private limited,,*@mail.ru,,A009810,ROYAL CHALLENGERS SPORTS PRIVATE LIMITED,,IN,0.9672
+P309,lead_alias_name,lead,L007620,the wellbeing servires county of päijät-häme,https://www.paijatha.fi/,*@yahoo.co.uk,FI,A031771,Wellbeing Services County of Päijät-Häme,https://www.paijatha.fi/,FI,0.9796
+P310,lead_freemail,lead,L003455,HARIBO HOLDING GMBH & CO. KG,,*@yahoo.com,,A017842,HARIBO Holding GmbH & Co. KG,,DE,0.9672
+P311,acc_high,account,A023532,15.JUNI FONDEN,,,DK,A023534,15. Juni Fonden,https://www.15junifonden.dk/,DK,0.9924
+P312,lead_alias_name,lead,L010908,KYMIN VOIMA OY,http://www.pohjolanvoima.fi,*@pohjolanvoima.fi,,A031596,Kymin Voima,http://www.pohjolanvoima.fi,FI,0.9973
+P313,lead_parent_domain,lead,L006727,LINCOLN ELECTRIC (U.K.) LIMITED,www.lincolnelectric.com,*@lincolnelectric.com,GB,A002971,LINCOLN ELECTRIC (U.K.) LIMITED,,GB,0.9928
+P314,acc_high,account,A009752,AXIS TRUSTEE SERVICES LIMITED,,,IN,A009753,AXIS TRUSTEE SERVICES LIMITED,,IN,0.9589
+P315,acc_parent_child,account,A035280,Crédit Lyonnais,https://www.lcl.fr/,,FR,A036049,Credit Agricole Group,https://www.credit-agricole.com/,FR,0.0044
+P316,lead_parent_domain,lead,L010732,"AEL RE VERMONT III, INC.",https://www.americannational.com/,*@americannational.com,US,A003659,"AEL RE VERMONT III, INC.",,US,0.9783
+P317,lead_borderline,lead,L011706,volksbank viersen,volksbankviersen.de,*@volksbankviersen.de,,A014973,Volksbank Esens eG,,DE,0.3905
+P318,lead_borderline,lead,L012549,ROYAL SMIT TRANSFORMERS,,*@sgb-smit.com,,A030070,Royal Huisman Shipyard B.V.,,NL,0.2321
+P319,acc_borderline,account,A011944,BANCO BPI S.A.,,,PT,A027227,"BANCO ECONOMICO, S.A.",,,0.2353
+P320,acc_high,account,A023513,BLACKBOARD INTERNATIONAL B.V.,,,NL,A023514,blackboard international b.v.,,NL,0.9589
+P321,acc_same_name_diff_country,account,A023624,"JD.com, Inc.",,,KY,A023625,JD.com,https://jd.com/,CN,0.1690
+P322,acc_shared_domain_diff_site,account,A022348,Britoil Public Limited Company,www.bp.com,,GB,A029132,BP Australia Pty Ltd,https://www.bp.com/en_au/australia.html,AU,0.0000
+P323,lead_freemail,lead,L009206,RELX NEDERLAND B.V.,,*@gmx.de,,A026263,RELX NEDERLAND B.V.,,NL,0.9672
+P324,lead_parent_domain,lead,L002799,,,*@alameda-research.com,VG,A025872,알라메다 리서치,alameda-research.com,,0.6583
+P325,acc_parent_child,account,A030146,24 indoor capital b.v.,24indoor.com,,NL,A030566,24 Indoor,https://24indoor.com/,NL,0.9234
+P326,acc_borderline,account,A014949,Sparkasse Lemgo,http://www.sparkasse-lemgo.de/,,DE,A016310,Sparkasse Niederbayern-Mitte,sparkasse-niederbayern-mitte.de,DE,0.0065
+P327,acc_parent_child,account,A001329,HSBC CARD SERVICES INC.,hsbcusa.com,,US,A037908,HSBC Holdings plc,hsbc.com,,0.0005
+P328,acc_same_name_diff_country,account,A013249,Siemens (Italy),http://www.siemens.it/,,IT,A015823,SIEMENS AS,,NO,0.3881
+P329,lead_alias_name,lead,L003761,USエアウェイズ,usairways.com,*@usairways.com,US,A019807,US Airways,http://www.usairways.com,US,0.8688
+P330,lead_borderline,lead,L011835,Sparkasse Leipzig,,*@sparkasse-leipzig.de,,A014951,Sparkasse Lemgo,,,0.3590
+P331,lead_parent_domain,lead,L008310,"nissan north america, inc.",,*@nissan-global.com,US,A026439,"NISSAN NORTH AMERICA, INC.",,US,0.9783
+P332,lead_freemail,lead,L009444,ENERGIA GROUP LIMITED,,*@proton.me,,A002620,ENERGIA GROUP LIMITED,,KY,0.9672
+P333,lead_alias_name,lead,L001367,SIPOON KUNTA,https://www.sipoo.fi/,*@web.de,,A031329,Sipoon kunta Sibbo kommun,https://www.sipoo.fi/,FI,0.8800
+P334,acc_shared_domain_diff_site,account,A032360,ENGYCAP SRL,https://www.panotec.com/it,,IT,A032363,PANTEC,panotec.com,IT,0.0567
+P335,acc_borderline,account,A013476,BANK IM BISTUM ESSEN eG,,,DE,A021045,BANK J. SAFRA SARASIN AG,,CH,0.0007
+P336,acc_shared_domain_diff_site,account,A017680,AXPO UK LIMITED,https://www.axpo.com/gb/en/about-us.html,,GB,A018098,Axpo Albania Sh.a.,http://www.axpo.com,AL,0.0025
+P337,lead_freemail,lead,L004543,Tamro Holding AB,,*@web.de,SE,A015614,Tamro Holding AB,,SE,0.9783
+P338,acc_parent_child,account,A023030,Kontoor International Sàrl,,,CH,A024920,Kontoor Brands,https://www.kontoorbrands.com/,US,0.0007
+P339,acc_borderline,account,A014964,Volksbank Lübeck,http://www.volksbank-luebeck.de,,DE,A015111,Volksbank BRAWO eG,http://www.volksbank-brawo.de/,DE,0.0106
+P340,acc_borderline,account,A011896,American Chamber of Commerce in Germany,https://www.amcham.de/,,DE,A022380,"AMERICAN WATER WORKS COMPANY, INC.",http://www.amwater.com/,US,0.0000
+P341,lead_borderline,lead,L011195,Universal Presentkort,https://www.presentkort.no/,*@presentkort.no,,A026516,"Universal Audio, Inc.",,US,0.3912
+P342,lead_alias_name,lead,L008810,Direce Fondee a.s.,,*@fondee.cz,CZ,A006251,Fondee s.r.o.,https://www.fondee.cz/,CZ,0.9879
+P343,acc_borderline,account,A016697,Volksbank Kaiserslautern eG,,,DE,A017384,Volksbank Vorbach-Tauber,http://www.voba-vorbach-tauber.de/,DE,0.1091
+P344,acc_same_name_diff_country,account,A013248,SIEMENS S.P.A.,http://www.siemens.it/,,IT,A015314,Siemens,http://www.siemens.com/entry/be/en/,BE,0.0205
+P345,lead_parent_domain,lead,L001034,Bankhaus Krentschker & Co. Aktiengesellschaft,https://www.sparkasse.at/,*@web.de,,A027633,Bankhaus Krentschker & Co. Aktiengesellschaft,,AT,0.9672
+P346,acc_high,account,A020721,"United Financial Bancorp, Inc.",http://www.unitedfinancialinc.com/,,US,A020722,United Financial Bancorp,https://www.bankatunited.com/,US,0.4345
+P347,acc_same_name_diff_country,account,A012673,SIEMENS SAS,,,FR,A015314,Siemens,http://www.siemens.com/entry/be/en/,BE,0.3881
+P348,acc_parent_child,account,A015498,Audi AG,https://www.audi.fr/,,DE,A018772,AUDI MEXICO SA DE CV,,MX,0.0004
+P349,acc_same_name_diff_country,account,A003964,Pico Far East Holdings Limited,http://www.pico.com/,,KY,A003965,Pico Far East Holdings Limited,http://www.pico.com/,HK,0.8350
+P350,lead_alias_name,lead,L003171,Bunge International,www.bunge.com,*@bunge.com,BM,A020755,BUNGE LIMITED,http://www.bunge.com/,BM,0.9522
+P351,lead_alias_name,lead,L003931,SIEMENS S.A.S,http://www.siemens.com/fr/fr/home.html,*@siemens.com,,A012674,Siemens SAS,http://www.siemens.com/fr/fr/home.html,FR,0.9991
+P352,acc_borderline,account,A011591,German Red Cross Saarland,https://www.lv-saarland.drk.de/,,DE,A034930,German Leprosy ard TB Relief Association,dahw.de,DE,0.0027
+P353,lead_parent_domain,lead,L005219,,https://www.pampaenergia.com/,*@pampaenergia.com,UY,A004096,Pampa Enetgía,pampaenergia.com,,0.6583
+P354,acc_parent_child,account,A014573,Prokon Regenerative Energien,https://www.prokon.energy/de-de/,,DE,A017184,PROKON Windpark Lindendorf 3 & 5 GmbH & Co. KG,,DE,0.0474
+P355,acc_borderline,account,A014145,Volksbank Bad Salzuflen eG,http://www.vbbs.de/,,DE,A014964,Volksbank Lübeck,http://www.volksbank-luebeck.de,DE,0.0057
+P356,lead_freemail,lead,L007800,NORDEA DIRECT BOLIGKREDITT AS,,*@hotmail.com,NO,A029369,NORDEA DIRECT BOLIGKREDITT AS,,NO,0.9783
+P357,acc_borderline,account,A014788,Sparkasse Oberösterreich Kapitalanlagegesellschaft m.b.H.,,,AT,A015090,Sparkasse Fürstenfeldbruck,http://www.sparkasse-ffb.de,DE,0.0008
+P358,lead_parent_domain,lead,L002514,SCHRODERS CAPITAL MANAGEMENT (DEUTSCHLAND) GMBH,,*@yahoo.co.uk,DE,A029811,Schroders Capital Management (Deutschland) GmbH,,DE,0.9783
+P359,lead_borderline,lead,L011648,Bankhaus Carl F. Plump & CO,bankhaus-plump.de,*@bankhaus-plump.de,,A027634,bankhaus krentschker & co. aktiengesellscraft,,AT,0.2411
+P360,acc_same_name_diff_country,account,A001106,Ferrexpo,http://www.ferrexpo.com,,CH,A001107,Ferrexpo PLC,ferrexpo.com,GB,0.9404
+P361,lead_parent_domain,lead,L001628,IBF S.P.A.,www.tubacex.com,*@tubacex.com,,A032569,IBF S.P.A.,,IT,0.9848
+P362,lead_borderline,lead,L012574,National Emergency Supply Agency,https://www.huoltovarmuuskeskus.fi/,*@huoltovarmuuskeskus.fi,,A029933,NATIONAL COOPERATIVE SERVICES CORPORATION,,US,0.2121
+P363,acc_borderline,account,A012687,"AMERICAN EAGLE OUTFITTERS, INC.",,,US,A026725,American National Insurance Company,,US,0.0106
+P364,acc_same_name_diff_country,account,A004377,Mongolian Mining Corporation,http://www.mmc.mn/,,HK,A004378,Mongolian Mining Corporation,,KY,0.1690
+P365,lead_parent_domain,lead,L002075,PMTL SERVICES LIMITED,,*@web.de,CY,A033381,PMTL SERVICES LIMITED,,CY,0.9783
+P366,lead_parent_domain,lead,L009002,Espoon seudun koulutuskuntayhtymä Omnia,https://www.espoo.fi,*@espoo.fi,,A031961,Espoon seudun koulutuskuntayhtymä Omnia,,FI,0.9672
+P367,acc_high,account,A032253,DEUTSCHE BANK AKTIENGESELLSCHAFT,https://www.db.com,,DE,A032254,Deutsche Bank,https://www.db.com,DE,0.9983
+P368,lead_freemail,lead,L008456,OTTO FUCHS Beteiligungen KG,,*@gmail.com,,A016734,OTTO FUCHS Beteiligungen KG,http://www.otto-fuchs.com/,DE,0.9672
+P369,lead_freemail,lead,L009908,Vulcan Energie Ressourcen GmbH,,*@yahoo.co.uk,,A012824,Vulcan Energie Ressourcen GmbH,,DE,0.9672
+P370,acc_borderline,account,A007997,PIVOVAR FALKENSTEJN S.R.O.,,,,A008440,"Pivovar Ferdinand, s.r.o.",,CZ,0.2283
+P371,lead_freemail,lead,L009286,ALTRAD UK LIMITED,,*@gmail.com,,A001607,ALTRAD UK LIMITED,,GB,0.9672
+P372,lead_freemail,lead,L000539,"Hanger, Inc.",,*@web.de,,A004471,"Hanger, Inc.",http://www.hanger.com,US,0.9890
+P373,acc_parent_child,account,A004291,WISETECH GLOBAL LIMITED,https://www.wisetechglobal.com/,,AU,A004358,WiseTech Global (Trading) Pty Ltd,,AU,0.9589
+P374,lead_parent_domain,lead,L009043,Marel Iceland ehf.,,*@marel.com,,A021126,Marel Iceland ehf.,,IS,0.9672
+P375,acc_same_name_diff_country,account,A038039,LIFE TECHNOLOGIES LIMITED,,,GB,A038652,LIFE TECHNOLOGIES CORPORATION,,US,0.0272
+P376,lead_freemail,lead,L003345,"Achema, AB",http://www.achema.com/,*@gmail.com,LT,A012026,"Achema, AB",http://www.achema.com/,LT,0.9994
+P377,acc_borderline,account,A006532,OBEC JAVORNICE,https://www.obecjavornice.cz,,CZ,A007782,Obec Jarov,,CZ,0.1583
+P378,acc_parent_child,account,A002361,ANGLOGOLD ASHANTI (GHANA) LIMITED,,,GH,A010487,ANGLOGOLD ASHANTI,,,0.9700
+P379,acc_high,account,A033953,ACERINOX SA,http://www.acerinox.com,,ES,A033955,أسيرينوكس,https://www.acerinox.com/,ES,0.7427
+P380,acc_borderline,account,A013079,Volksbank Stormarn,http://www.volksbank-stormarn.de,,DE,A016050,Volksbank Visbek,http://www.vbvisbek.de,DE,0.0077
+P381,lead_freemail,lead,L006089,Fortischem,https://www.fortischem.sk/,*@mail.ru,,A000131,FORTISCHEM a. s.,http://www.fortischem.sk,SK,0.9991
+P382,acc_parent_child,account,A009211,FOTOLAB.CZ,cewe.cz,,CZ,A015377,CeWe,http://www.cewe.de/,DE,0.0000
+P383,acc_high,account,A030196,Zonnepark Koningspleij Arnhem B.V.,https://sunvest.nl/zonnepark-koningspleij/,,NL,A030197,Zonnepark Koningspleij Arnhem,https://sunvest.nl/zonnepark-koningspleij/,NL,0.9983
+P384,lead_freemail,lead,L002141,claussen-simon-stiftung,,*@yahoo.co.uk,DE,A016647,Claussen-Simon-Stiftung,http://www.claussen-simon-stiftung.de/stiftung.html,DE,0.9928
+P385,acc_parent_child,account,A004807,Amica S.A.,http://www.amica.pl,,PL,A007879,Amica Commerce,,CZ,0.0027
+P386,acc_high,account,A004701,Ergis,http://www.ergis.eu/,,PL,A004702,ERGIS SPOLKA AKCYJNA,,PL,0.9864
+P387,acc_shared_domain_diff_site,account,A029300,SpareBank 1 Nøtterøy–Tønsberg,https://www.sparebank1.no/notteroy-tonsberg/,,NO,A029352,Modum Sparebank,http://www.modum.sparebank1.no/,NO,0.1580
+P388,acc_borderline,account,A007263,obec pencin,www.pencin.cz,,CZ,A007370,Obec Březí nad Oslavou,,CZ,0.0963
+P389,lead_freemail,lead,L005267,F2I TLC 2 S.P.A.,,*@web.de,,A032364,F2I TLC 2 S.P.A.,,IT,0.9672
+P390,acc_borderline,account,A012349,"Sparkasse an Volme und Ruhr, Zweckverbandssparkasse der Stadte Hagen, Halver, Herdecke und Ludenscheid sowie der Gemeinden Herscheid und Schalksmuhle",sparkasse-hagenherdecke.de,,,A015437,Sparkasse Freising,https://www.sparkasse-freising.de/,DE,0.0066
+P391,lead_borderline,lead,L011805,FRIEDRICH VORWERK GROUP SE,friedrich-vorwerk.de,*@friedrich-vorwerk.de,,A014442,Friedrich-Naumann-Stiftung für die Freiheit,,DE,0.2586
+P392,acc_parent_child,account,A019545,LORD CORPORATION,,,US,A027766,LORD Asia International Limited,,HK,0.0003
+P393,lead_parent_domain,lead,L009474,CITIGROUP GLOBAL MARKETS FINANCIAL PRODUCTS LLC,,*@web.de,US,A024989,CITIGROUP GLOBAL MARKETS FINANCIAL PRODUCTS LLC,citigroup.com,US,0.9783
+P394,acc_borderline,account,A012792,Sparkasse Minden-Lübbecke,http://www.sparkasse-minden-luebbecke.de/,,DE,A015406,Sparkasse LeerWittmund,,DE,0.1503
+P395,acc_shared_domain_diff_site,account,A013257,Siemens (Denmark),http://www.siemens.com/entry/dk/da/,,DK,A016587,Siemens Nederland N.V.,https://www.siemens.com/nl/nl/,NL,0.0080
+P396,lead_alias_name,lead,L006359,,,*@ascsa.edu.gr,US,A019089,The American School of Classical Studies at Athens,http://www.ascsa.edu.gr/,US,0.6950
+P397,lead_parent_domain,lead,L001835,"xarxa oberta de comunicació i tecnologia de catalunya, s.a.",https://www.cellnex.com,*@cellnex.com,ES,A034190,"XARXA OBERTA DE COMUNICACIÓ I TECNOLOGIA DE CATALUNYA, S.A.",,ES,0.9783
+P398,acc_same_name_diff_country,account,A013750,"Siemens, s.r.o.",,,CZ,A015823,SIEMENS AS,,NO,0.1690
+P399,lead_freemail,lead,L008747,TARKETT SPORTS B.V.,,*@proton.me,NL,A028132,TARKETT SPORTS B.V.,,NL,0.9783
+P400,acc_parent_child,account,A027900,COOP NORGE EIENDOM AS,,,NO,A028985,Coop Norge SA,https://coop.no,NO,0.0601
+P401,lead_borderline,lead,L011491,Union Sozialer Einrichtungen,,*@u-s-e.org,,A026561,UNION BANK OF HONG KONG LIMITED,,HK,0.2063
+P402,acc_same_name_diff_country,account,A003483,Baidu,https://www.baidu.com/,,CN,A003484,바이두,https://www.baidu.com/,KY,0.9404
+P403,lead_alias_name,lead,L007347,MODELÁRNA LIAZ spol. s r.o.,modelarna-liaz.cz,*@modelarna-liaz.cz,CZ,A006323,MODELÁRNA LIAZ spol. s r.o.,http://www.modelarna-liaz.cz,CZ,0.9982
+P404,lead_parent_domain,lead,L001462,ZAPTEC CHARGER AS,https://zaptec.com/,*@zaptec.com,NO,A029802,ZAPTEC CHARGER AS,zaptec.com/no,NO,0.9920
+P405,acc_borderline,account,A019123,"ANHEUSER-BUSCH COMPANIES, LLC",,,US,A026808,Anheuser-Busch InBev Czech s.r.o.,,CZ,0.0005
+P406,acc_same_name_diff_country,account,A013249,Siemens (Italy),http://www.siemens.it/,,IT,A013257,Siemens (Denmark),http://www.siemens.com/entry/dk/da/,DK,0.0205
+P407,lead_borderline,lead,L011679,Siemens in Sweden,,*@siemens.se,,A012673,SIEMENS SAS,,FR,0.2292
+P408,acc_borderline,account,A022381,American Water Works,http://www.amwater.com/,,US,A029121,American University,https://american.edu,US,0.0031
+P409,lead_alias_name,lead,L000429,,,*@dpmul.cz,CZ,A009573,Dopravní podnik města Ústí nad Labem,https://www.dpmul.cz/,CZ,0.6549
+P410,acc_same_name_diff_country,account,A017352,CENTRALE EOLIENNE PATAY SAS,https://pip.ipex.it/,,FR,A017353,"Centrale Eolienne Patay, S.A.S.",https://pip.ipex.it/,ES,0.8350
+P411,acc_high,account,A005886,"ALTA, a.s.",,,CZ,A005887,"ALTA, a.s.",https://www.alta.cz/,CZ,0.9883
+P412,lead_borderline,lead,L011632,VR Bank Fulda,vrbankfulda.de,*@vrbankfulda.de,,A015611,VR-Bank eG,,DE,0.3060
+P413,acc_shared_domain_diff_site,account,A015314,Siemens,http://www.siemens.com/entry/be/en/,,BE,A016588,Siemens Nederland N.V.,https://www.siemens.com/nl/nl/,NL,0.0080
+P414,acc_borderline,account,A003304,AMERICAN BITCOIN CORP.,https://www.abtc.com/,,US,A019049,AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE,,US,0.1467
+P415,acc_same_name_diff_country,account,A003507,MINTH GROUP LIMITED,,,KY,A003508,Minth Group Limited,http://www.minthgroup.com/,CN,0.1690
+P416,acc_borderline,account,A014181,Sparkasse Vorpommern,https://www.spk-vorpommern.de,,DE,A016281,Sparkasse Uckermark,http://www.spk-uckermark.de,DE,0.0054
+P417,lead_parent_domain,lead,L005272,CARLSBERG BREWERIES A/S,,*@carlsberggroup.com,,A021142,Carlsberg Breweries A/S,https://www.carlsberggroup.com,DK,0.9973
+P418,lead_alias_name,lead,L006150,Висконсинский университет,,*@wisconsin.edu,US,A019024,University of Wisconsin System,https://www.wisconsin.edu/,US,0.8300
+P419,lead_parent_domain,lead,L003450,APPLE CANADA INC.,,*@gmail.com,CA,A019762,APPLE CANADA INC.,,CA,0.9783
+P420,lead_parent_domain,lead,L006360,SYNOPSYS (INDIA) EDA SOFTWARE PRIVATE LIMITED,https://www.synopsys.com/,*@hotmail.com,IN,A009770,SYNOPSYS (INDIA) EDA SOFTWARE PRIVATE LIMITED,,IN,0.9783
+P421,acc_high,account,A032343,CDP RETI SOCIETA' PER AZIONI,,,IT,A032344,CDP RETI SOCIETA' PER AZIONI,,IT,0.9589
+P422,acc_shared_domain_diff_site,account,A035636,Banque populaire Auvergne Rhône Alpes,http://www.bpaura.banquepopulaire.fr/,,FR,A036170,Banque populaire Grand Ouest,http://www.bpgo.banquepopulaire.fr,FR,0.2196
+P423,acc_high,account,A037451,AXA,https://www.axa.com/,,FR,A037452,AXA,https://www.axa.com/,FR,0.9995
+P424,acc_borderline,account,A012390,Stadtwerke Ilmenau,https://stadtwerke-ilmenau.de/,,DE,A016336,Stadtwerke Augsburg Energie,http://www.sw-augsburg.de,DE,0.0071
+P425,acc_borderline,account,A021261,Danish Writers Guild,http://www.dramatiker.dk,,DK,A036473,Danish Osteoporosis Society,https://www.osteoporose-f.dk,DK,0.0035
+P426,lead_alias_name,lead,L004952,Роллінз-колледж,http://www.rollins.edu,*@rollins.edu,US,A004196,Rollins College,http://www.rollins.edu,US,0.8245
+P427,acc_borderline,account,A003385,THE AMERICAN INSTITUTE OF ARCHITECTS,,,US,A027203,"The American Society of Hematology, Inc.",,US,0.1050
+P428,acc_borderline,account,A005083,POLSKI HOLDING NIERUCHOMOŚCI SPÓŁKA AKCYJNA,,,PL,A017504,POLSKI DOM MAKLERSKI S.A.,http://www.dmconsus.eu,PL,0.0167
+P429,lead_parent_domain,lead,L006873,디케이에스에이치코리아(주),www.dksh.com,*@outlook.com,,A037097,디케이에스에이치코리아(주),,KR,0.9672
+P430,acc_borderline,account,A017310,Sparkasse Celle,https://www.sparkasse-celle.de/,,DE,A017506,Sparkasse Tauberfranken,,DE,0.2080
+P431,lead_borderline,lead,L012604,SPC 2-Mustaisneva,,*@yardenergy.com,,A030364,Windpark Van Gogh V.O.F.,https://yardenergy.com/portfolio/nederland/vangogh/,NL,0.2439
+P432,acc_same_name_diff_country,account,A013257,Siemens (Denmark),http://www.siemens.com/entry/dk/da/,,DK,A016936,SIEMENS SA,http://www.siemens.com/entry/es/es/,ES,0.9404
+P433,acc_borderline,account,A006051,Obec Hojovice,,,CZ,A007993,Obec Čeladná,http://www.celadna.cz/,CZ,0.1288
+P434,lead_borderline,lead,L011845,Bankhaus Neelmeyer,,*@neelmeyer.de,,A027633,Bankhaus Krentschker & Co. Aktiengesellschaft,,AT,0.3063
+P435,lead_parent_domain,lead,L009899,SNAP INTERNATIONAL I LIMITED,,*@snap.com,GB,A000391,SNAP INTERNATIONAL I LIMITED,,GB,0.9967
+P436,lead_alias_name,lead,L005903,"Bonett Bohemia, a.s.",https://www.bonett.cz/,*@bonett.cz,CZ,A008956,"BONETT BOHEMIA, A.S.",https://www.bonett.cz/,CZ,0.9982
+P437,acc_borderline,account,A009358,Obec Kostěnice,http://www.kostenice.cz,,CZ,A009491,Obec Nivnice,http://www.nivnice.cz/,CZ,0.0070
+P438,acc_high,account,A016773,ファナック株式会社,https://www.fanuc.co.jp/index.html,,JP,A016775,Fujitsu Automatic NUmerical Control,https://www.fanuc.co.jp/,JP,0.5314
+P439,lead_parent_domain,lead,L007026,OMNIA KOULUTUS OY,https://www.espoo.fi/,*@gmail.com,,A031861,Omnia koulutus Oy,,FI,0.9672
+P440,acc_borderline,account,A017507,Sparkasse Tauberfranken,http://www.sparkasse-tauberfranken.de/,,DE,A017783,Sparkasse Jena-Saale-Holzland,https://www.s-jena.de,DE,0.0035
+P441,acc_shared_domain_diff_site,account,A007339,HARIBO CZ,https://www.haribo.com/cs-cz,,CZ,A007340,HARIBO CZ,www.haribo.com,CZ,0.9687
+P442,lead_parent_domain,lead,L004681,Nedgroup Securities (Pty) Ltd,,*@nedbank.co.zw,ZA,A010475,Nedgroup Securities (Pty) Ltd,,ZA,0.9783
+P443,acc_same_name_diff_country,account,A012675,SIEMENS S.A.S,,,FR,A013750,"Siemens, s.r.o.",,CZ,0.0272
+P444,lead_freemail,lead,L005427,Selver AS,,*@qq.com,EE,A012087,Selver AS,,EE,0.9783
+P445,acc_parent_child,account,A023978,tdc net holdingia/s,,,,A026870,TDC NET A/S,,DK,0.5664
+P446,acc_parent_child,account,A018590,Seaman Paper Company,http://www.seamanpaper.com,,US,A026115,ORANGE DISTRIBUTIONrCOMPANY LLC,seamanpaper.com,US,0.2932
+P447,lead_freemail,lead,L004176,European Center for Constitutional and Human Rights,,*@hotmail.com,,A017005,European Center for Constitutional and Human Rights,,DE,0.9672
+P448,acc_borderline,account,A010119,Japan External Trade rganization,jetro.go.jp,,,A010296,"JAPAN INTERNATIONAL CONSULTANTS FOR TRANSPORTATION CO.,LTD.",,,0.1439
+P449,acc_borderline,account,A013892,VR-Bank Altenburger Land,https://www.vrbank-altenburgerland.de/,,DE,A014978,VR Bank Main-Kinzig-Büdingen,https://www.vrbank-mkb.de/,DE,0.0054
+P450,acc_high,account,A002276,Gem Diamonds,http://www.gemdiamonds.com,,GB,A002278,Gem Diamons,gemdiamonds.com,VG,0.3477
+P451,lead_alias_name,lead,L006098,野鳥與濕地信託,,*@wwt.org.uk,GB,A002767,Wildfowl and Wetlands Trust,http://www.wwt.org.uk/,GB,0.6875
+P452,acc_parent_child,account,A032757,NOTORIOUS CINMAS S.R.L.,notoriouspictures.it,,,A032816,NOTORIOUS PICTURES SOCIETA' PER AZIONI,http://notoriouspictures.it/,IT,0.9028
+P453,acc_borderline,account,A014922,VOLKSBANK BAD LAER-BORGLOH-HILTR-MELLE,,,,A015111,Volksbank BRAWO eG,http://www.volksbank-brawo.de/,DE,0.2564
+P454,acc_borderline,account,A018749,State Bank of India,https://sbi.bank.in,,IN,A037274,State of Michigan Retirement System,,US,0.0007
+P455,acc_same_name_diff_country,account,A013249,Siemens (Italy),http://www.siemens.it/,,IT,A016936,SIEMENS SA,http://www.siemens.com/entry/es/es/,ES,0.0205
+P456,lead_parent_domain,lead,L006583,Hallhuber GmbH,https://www.gerryweber.com/,*@gerryweber.com,,A013805,Hallhuber GmbH,,DE,0.9672
+P457,lead_borderline,lead,L011240,bibby financial services,,*@bibbyfinancialservices.com,,A009745,BOB FINANCIAL SOLUTIONS LIMITED,,IN,0.3249
+P458,lead_freemail,lead,L003796,VR WERT Gesellschaft für Immobilienbewertungen mbH,,*@icloud.com,DE,A011166,VR WERT Gesellschaft für Immobilienbewertungen mbH,,DE,0.9783
+P459,acc_borderline,account,A021562,"City of Jamestown, New York",http://www.jamestownny.net/,,US,A023753,"City of Holyoke, Massachusetts",http://www.holyoke.org/,US,0.0016
+P460,acc_borderline,account,A006823,Obec Tuněchody,,,CZ,A007851,Obec Horky,http://www.horkyucaslavi.cz,CZ,0.1616
+P461,acc_parent_child,account,A000536,ferrexpo finance plc,ferrexpo.com,,GB,A001108,ferroxpo,ferrexpo.com,GB,0.7317
+P462,acc_parent_child,account,A007968,BIOMERIEUX CZ S.R.O.,https://biomerieux.fr/,,,A021410,BIOMERIEUX SA,,FR,0.0804
+P463,acc_same_name_diff_country,account,A012599,China Resources Land Limited,,,KY,A012600,China Resources Land,http://www.crland.com.hk/,HK,0.1690
+P464,lead_borderline,lead,L011559,hans-dickmann-kolleg,,*@hadiko.de,,A015607,Hans Hennig GmbH,,DE,0.2163
+P465,lead_freemail,lead,L010458,"TRADAMA LOGISTICA GLOBAL, S.L",,*@hotmail.com,ES,A034110,"TRADAMA LOGISTICA GLOBAL, S.L",,ES,0.9783
+P466,acc_same_name_diff_country,account,A015313,SIEMENS,,,BE,A016936,SIEMENS SA,http://www.siemens.com/entry/es/es/,ES,0.3881
+P467,acc_parent_child,account,A004969,synthos kralupy a.s.,,,CZ,A005055,SYNTHOS SPÓŁKA AKCYJNA,,PL,0.0038
+P468,acc_parent_child,account,A031236,Gasum,http://www.gasum.com/,,FI,A031830,Gasum Portfolio Services Oy,,FI,0.2623
+P469,lead_alias_name,lead,L000211,HTC,https://www.htc.com,*@htc.com,TW,A004334,HTC,https://www.htc.com,TW,0.9997
+P470,acc_parent_child,account,A029639,Aspen Pharma Ireland Limited,aspenpharma.com/ie,,IE,A029772,Aspen Pharmacare,http://www.aspenpharma.com/,ZA,0.0022
+P471,acc_high,account,A020777,West Pharmaceutical Services (United States),http://www.westpharma.com/en/Pages/Default.aspx,,US,A020778,the west company incorporated,westpharma.com,US,0.8642
+P472,acc_parent_child,account,A001966,GALLIFORD TRY HOLDINGS PLC,,,GB,A002118,Galliford Try,http://www.gallifordtry.co.uk/,GB,0.5893
+P473,acc_high,account,A028684,"NETFLIX, INC.",,,US,A028685,"Netflix, Inc.",https://ir.netflix.net/,US,0.9864
+P474,lead_alias_name,lead,L010483,Funai,,*@funai.us,JP,A017898,Funai,https://www.funai.us,JP,0.9994
+P475,lead_alias_name,lead,L004611,Telecom Italia Finance S.A.,,*@tifinance.lu,,A025586,Telecom Italia Finance,https://www.tifinance.lu/,LU,0.9973
+P476,lead_borderline,lead,L012904,EASTERN BANK,www.easternbank.com,*@easternbank.com,,A037445,East West Bank,,US,0.2230
+P477,acc_shared_domain_diff_site,account,A029351,SPAREBANK 1 MODUM,http://www.modum.sparebank1.no/,,NO,A029378,Sparebanken Sogn og Fjordane,www.sparebank1.no,,0.0660
+P478,lead_freemail,lead,L005857,SITRADE ITALIA -SPA,,*@hotmail.com,,A032297,SITRADE ITALIA -SPA,,IT,0.9672
+P479,acc_borderline,account,A015243,Stadtwerke Heidelberg Bader GmbH,swhd.de,,,A016113,Stadtwerke Georgsmarienhütte,http://www.sw-gmhuette.de,DE,0.0044
+P480,acc_borderline,account,A007896,obec dobromerice,https://www.dobromerice.cz/,,,A009081,Obec Selmice,,CZ,0.1967
+P481,acc_borderline,account,A001857,University of Manchester,https://manchester.ac.uk,,GB,A021914,University of Portland,https://www.up.edu/,US,0.0001
+P482,acc_borderline,account,A031755,Wellbeing Services County of Lapland,https://lapha.fi/,,FI,A031772,wellbeing services county of päijänne tavastia,https://www.paijatha.fi/,FI,0.0234
+P483,lead_borderline,lead,L011760,Raiffeisenbank Stauden,http://www.rb-stauden.de/,*@rb-stauden.de,,A017715,Raiffeisenbank eG,,DE,0.4171
+P484,acc_shared_domain_diff_site,account,A013727,AXPO POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,http://www.axpo.com/axpo/pl/pl/o-nas/o-nas.html,,PL,A017680,AXPO UK LIMITED,https://www.axpo.com/gb/en/about-us.html,GB,0.0007
+P485,lead_freemail,lead,L010726,TSB BANKING GROUP LIMITED,,*@outlook.com,GB,A001846,TSB BANKING GROUP LIMITED,,GB,0.9783
+P486,acc_borderline,account,A015386,Sparkasse Engen-Gottmadingen,https://www.sparkasse-engo.de,,DE,A015838,Sparkasse Korneuburg,http://www.sparkasse.at/korneuburg,AT,0.0000
+P487,lead_parent_domain,lead,L009137,Holcim Helvetia Finance Ltd,,*@holcim.com,,A014848,Holcim Helvetia Finance Ltd,https://www.holcim.com/,CH,0.9973
+P488,lead_freemail,lead,L007118,OTP HOLDING LIMITED,,*@gmail.com,CY,A017612,OTP HOLDING LIMITED,,CY,0.9900
+P489,acc_same_name_diff_country,account,A013751,Siemens,http://www.siemens.cz,,CZ,A016936,SIEMENS SA,http://www.siemens.com/entry/es/es/,ES,0.0205
+P490,acc_shared_domain_diff_site,account,A029276,SPAREBANK 1 SØRØST-NORGE,http://www.sparebank1.no/buskerud-vestfold,,NO,A029352,Modum Sparebank,http://www.modum.sparebank1.no/,NO,0.1852
+P491,acc_borderline,account,A018566,"Oklahoma Christian University, Inc.",https://www.oc.edu/,,US,A037283,Oklahoma Gas & Electric,http://www.oge.com,US,0.0016
+P492,acc_borderline,account,A012784,Kreissparkasse Ravensburg,https://www.kreissparkasse-ravensburg.de/,,DE,A015480,Kreissparkasse Diepholz,http://www.ksk-syke.de/,DE,0.0096
+P493,lead_alias_name,lead,L001856,東京ガス,,*@tokyo-gas.co.jp,,A010081,東京ガス,www.tokyo-gas.co.jp,JP,0.9973
+P494,acc_high,account,A017466,"RED ROBIN GOURMET BURGERS, INC.",https://www.redrobin.com/,,US,A017468,ディック・グレイソン,redrobin.com,US,0.6335
+P495,acc_borderline,account,A023625,JD.com,https://jd.com/,,CN,A023626,JD.om,jd.com,KY,0.0758
+P496,acc_borderline,account,A012687,"AMERICAN EAGLE OUTFITTERS, INC.",,,US,A037689,"American Capital, Ltd.",http://www.AmericanCapital.com,US,0.0186
+P497,acc_shared_domain_diff_site,account,A014587,ГЕН-И СОНЦЕ ДООЕЛ Скопје,gen-i.si/mk,,MK,A014589,ГЕН-И ОНЦЕ ДООЕЛ Скопје,gen-i.si,,0.7324
+P498,acc_shared_domain_diff_site,account,A036419,VESTFROST Zártkörűen Működő Részvénytársaság,vestfrostsolutions.com/hu,,HU,A036420,vestfrost zrt.,https://vestfrostsolutions.com/,HU,0.1684
+P499,acc_borderline,account,A016771,Sparkasse Dinslaken-Voerde-Hünxe,,,DE,A017381,Sparkasse Marburg-Biedenkopf,http://www.skmb.de/,DE,0.0831

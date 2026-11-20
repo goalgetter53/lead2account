@@ -1,0 +1,27 @@
+{
+  "entities": 17987,
+  "entities_in_crm": 16075,
+  "account_records": 38669,
+  "lead_records": 12912,
+  "total_records": 51581,
+  "hierarchy_edges": 7640,
+  "edge_sources": {
+    "gleif_direct": 1364,
+    "gleif_ultimate": 5767,
+    "wikidata_p355": 234,
+    "wikidata_p749": 275
+  },
+  "groups": 11492,
+  "account_sources": {
+    "enrichment": 11649,
+    "erp_import": 16075,
+    "list_upload": 3243,
+    "sales_manual": 7702
+  },
+  "lead_hard_cases": {
+    "none": 2900,
+    "alias_name": 5238,
+    "freemail": 3390,
+    "parent_domain": 1384
+  }
+}

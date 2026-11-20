@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>lead2account labeller</title>
+<style>
+  :root { --bg:#fafafa; --fg:#1d1d1f; --mute:#6b6b70; --line:#e2e2e6; --acc:#2456d6; }
+  body { font: 15px/1.45 system-ui, sans-serif; background: var(--bg); color: var(--fg); margin: 0; }
+  header { display:flex; gap:16px; align-items:center; padding:12px 20px; border-bottom:1px solid var(--line); background:#fff; }
+  header b { font-size: 16px; }
+  #progress { color: var(--mute); }
+  #bar { flex:1; height:6px; background:var(--line); border-radius:3px; overflow:hidden; }
+  #bar > div { height:100%; background:var(--acc); width:0; }
+  main { max-width: 980px; margin: 24px auto; padding: 0 20px; }
+  .pair { display:grid; grid-template-columns: 1fr 1fr; gap:16px; }
+  .card { background:#fff; border:1px solid var(--line); border-radius:8px; padding:16px; }
+  .card h3 { margin:0 0 8px; font-size:12px; text-transform:uppercase; letter-spacing:.06em; color:var(--mute); }
+  .name { font-size: 20px; font-weight: 600; margin-bottom: 8px; word-break: break-word; }
+  .kv { color: var(--mute); font-size: 14px; } .kv span { color: var(--fg); }
+  .meta { margin: 12px 0; color: var(--mute); font-size: 13px; }
+  .btns { display:flex; gap:10px; margin-top:16px; flex-wrap: wrap; }
+  button { font: inherit; padding:10px 16px; border:1px solid var(--line); border-radius:6px; background:#fff; cursor:pointer; }
+  button.sel { border-color: var(--acc); box-shadow: 0 0 0 2px var(--acc) inset; }
+  kbd { font: 12px ui-monospace, monospace; background:#eee; border-radius:3px; padding:1px 5px; margin-right:6px; }
+  textarea { width:100%; margin-top:12px; font: inherit; border:1px solid var(--line); border-radius:6px; padding:8px; }
+  .help { color: var(--mute); font-size: 13px; margin-top: 18px; }
+</style>
+</head>
+<body>
+<header>
+  <b>lead2account labeller</b>
+  <span id="progress">loading…</span>
+  <div id="bar"><div></div></div>
+  <a href="/api/export" download="hand_labels.csv">Export CSV</a>
+</header>
+<main>
+  <div class="meta" id="meta"></div>
+  <div class="pair">
+    <div class="card"><h3 id="lkind">Left</h3><div class="name" id="lname"></div>
+      <div class="kv">Website: <span id="lweb"></span></div>
+      <div class="kv">Email domain: <span id="lemail"></span></div>
+      <div class="kv">Country: <span id="lcountry"></span></div></div>
+    <div class="card"><h3>Account</h3><div class="name" id="rname"></div>
+      <div class="kv">Website: <span id="rweb"></span></div>
+      <div class="kv">Country: <span id="rcountry"></span></div></div>
+  </div>
+  <div class="btns">
+    <button data-l="match"><kbd>1</kbd>Same company</button>
+    <button data-l="no_match"><kbd>2</kbd>Different company</button>
+    <button data-l="parent_child"><kbd>3</kbd>Parent / subsidiary</button>
+    <button data-l="unsure"><kbd>4</kbd>Unsure</button>
+    <button id="prev"><kbd>←</kbd>Prev</button>
+    <button id="next"><kbd>→</kbd>Next</button>
+    <button id="skip"><kbd>N</kbd>Next unlabelled</button>
+  </div>
+  <textarea id="note" rows="2" placeholder="Optional note (saved with the label)"></textarea>
+  <p class="help">Judge only from what you see; search the web if you need to. "Same company" = same legal entity
+  (or the same company under another name / domain). "Parent / subsidiary" = related companies in one group but
+  different legal entities. Labels save on every click to labels/hand_labels.csv.</p>
+</main>
+<script>
+let pairs = [], i = 0;
+const $ = (id) => document.getElementById(id);
+const txt = (v) => v && v.length ? v : "—";
+function render() {
+  const p = pairs[i]; if (!p) return;
+  $("meta").textContent = `Pair ${i + 1} of ${pairs.length} · ${p.pair_id} · ${p.left_kind === "lead" ? "lead → account" : "account ↔ account"}`;
+  $("lkind").textContent = p.left_kind === "lead" ? "Lead" : "Account";
+  $("lname").textContent = txt(p.left_name); $("lweb").textContent = txt(p.left_website);
+  $("lemail").textContent = txt(p.left_email); $("lcountry").textContent = txt(p.left_country);
+  $("rname").textContent = txt(p.right_name); $("rweb").textContent = txt(p.right_website);
+  $("rcountry").textContent = txt(p.right_country);
+  $("note").value = p.note || "";
+  document.querySelectorAll("button[data-l]").forEach(b => b.classList.toggle("sel", b.dataset.l === p.label));
+  const done = pairs.filter(x => x.label).length;
+  $("progress").textContent = `${done} / ${pairs.length} labelled`;
+  document.querySelector("#bar > div").style.width = (100 * done / pairs.length) + "%";
+}
+async function setLabel(label) {
+  const p = pairs[i];
+  const r = await fetch("/api/label", { method: "POST", headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({ pair_id: p.pair_id, label, note: $("note").value }) });
+  if (!r.ok) { alert("save failed: " + r.status); return; }
+  p.label = label; p.note = $("note").value;
+  if (i < pairs.length - 1) i++;
+  render();
+}
+function nextUnlabelled() {
+  for (let k = 1; k <= pairs.length; k++) { const j = (i + k) % pairs.length; if (!pairs[j].label) { i = j; break; } }
+  render();
+}
+document.querySelectorAll("button[data-l]").forEach(b => b.onclick = () => setLabel(b.dataset.l));
+$("prev").onclick = () => { if (i > 0) i--; render(); };
+$("next").onclick = () => { if (i < pairs.length - 1) i++; render(); };
+$("skip").onclick = nextUnlabelled;
+document.addEventListener("keydown", (e) => {
+  if (e.target.tagName === "TEXTAREA") return;
+  const map = {"1": "match", "2": "no_match", "3": "parent_child", "4": "unsure"};
+  if (map[e.key]) setLabel(map[e.key]);
+  else if (e.key === "ArrowLeft") $("prev").click();
+  else if (e.key === "ArrowRight") $("next").click();
+  else if (e.key === "n" || e.key === "N") nextUnlabelled();
+});
+fetch("/api/pairs").then(r => r.json()).then(d => { pairs = d; const k = pairs.findIndex(p => !p.label); i = k < 0 ? 0 : k; render(); });
+</script>
+</body>
+</html>
